@@ -15,9 +15,9 @@ def create_norm_reads(tax_level):
 
     input_dir = global_vars['reads_dir']
 
-    output_dir = global_vars['output_dir']+tax_level
+    data_dir = global_vars['data_dir']+tax_level
 
-    create_directory_if_not_exists(output_dir)
+    create_directory_if_not_exists(data_dir)
 
     xlsx_files = [file for file in os.listdir(input_dir) if file.endswith('.xlsx')]
 
@@ -52,7 +52,7 @@ def create_norm_reads(tax_level):
 
         #df.set_index('ID', inplace=True)
 
-        directory = os.path.dirname(os.path.join(output_dir, file))
+        directory = os.path.dirname(os.path.join(data_dir, file))
         
         file_name, file_ext = os.path.splitext(os.path.basename(file))
         
@@ -65,7 +65,7 @@ def create_norm_reads(tax_level):
 
 def join_reads(tax_level):
 
-    dir_path = output_dir+tax_level
+    dir_path = data_dir+tax_level
 
     xlsx_files = [file for file in os.listdir(dir_path) if file.endswith('.xlsx')]
 
@@ -92,7 +92,7 @@ def join_reads(tax_level):
 
 def convert_to_binary(tax_level):
     
-    dir_path = output_dir+tax_level
+    dir_path = data_dir+tax_level
     
     df = pd.read_excel(dir_path+"/all.xlsx")
     
@@ -106,7 +106,7 @@ def join_soil_species(tax_level):
 
     sol = pd.read_excel(soil_file)
 
-    dir_path = output_dir+tax_level
+    dir_path = data_dir+tax_level
 
     df = pd.read_excel(dir_path+"/all.xlsx")
 
