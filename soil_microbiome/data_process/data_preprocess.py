@@ -15,7 +15,7 @@ def create_norm_reads(tax_level):
 
     input_dir = global_vars['reads_dir']
 
-    data_dir = global_vars['data_dir']+tax_level
+    data_dir = os.path.join(global_vars['data_dir'],tax_level)
 
     create_directory_if_not_exists(data_dir)
 
