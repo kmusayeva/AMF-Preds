@@ -1,11 +1,8 @@
-import os
 import pandas as pd
 import numpy as np
 
-from .utils import create_directory_if_not_exists
-
-from soil_microbiome import global_vars
-
+from ..utils import * 
+from .. import global_vars
 
 if __name__ == "__main__":
     print(global_vars['soil_file'])
