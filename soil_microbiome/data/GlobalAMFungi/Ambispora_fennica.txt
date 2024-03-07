@@ -1,0 +1,155 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+892	Vasar_2021_1HW	WANDA/AML2	-23.2975	64.8506	Europe	soil	212382	grassland	3.5	1306	4.4	2011	NA_	SSU	Illumina	28
+893	Vasar_2021_1HW	WANDA/AML2	75.4217	41.9128	Asia	soil	21391	grassland	-3.7	436	5.6	2015	NA_	SSU	Illumina	75
+907	Rasmussen_2018_C8E6	NS31/AML2	19.9281	60.3465	Europe	root	44040	grassland	6.2	552	NA_	2015	Plantago lanceolata	SSU	Illumina	1
+922	Vasar_2021_1HW	WANDA/AML2	103.347	35.4736	Asia	soil	124361	grassland	5.8	667	7.5	2014	NA_	SSU	Illumina	84
+949	Vasar_2021_1HW	WANDA/AML2	-81.3167	43.1933	North America	soil	60738	grassland	7.9	1001	6.76	2018	NA_	SSU	Illumina	65
+1049	Ezeokoli_2020_1AW	AML1/AML2 then AMV4.5NF/AMDGR	29.1895	-26.0018	Africa	soil	92193	grassland	16	775	4.16	2017	Eragostis tef	SSU	Illumina	415
+1087	Xiang_2014_BD5B	AML1/AML2 then NS31/AM1	111.103	39.7674	Asia	soil	1101	cropland	8.3	353	8.29	2010	Zea mays	SSU	454Roche	3
+1129	Vasar_2021_1HW	WANDA/AML2	-100.913	25.2464	North America	soil	48007	forest	13.2	491	6.24	2016	NA_	SSU	Illumina	1
+1140	Vasar_2021_1HW	WANDA/AML2	106.859	53.0286	Asia	soil	108093	grassland	-0.2	251	7.11	2018	NA_	SSU	Illumina	90
+1148	Vasar_2021_1HW	WANDA/AML2	23.9175	63.4114	Europe	soil	26562	grassland	3.5	524	4.59	2018	NA_	SSU	Illumina	8
+1152	Rasmussen_2018_C8E6	NS31/AML2	19.5405	60.218	Europe	root	60532	grassland	6.3	522	5.8	2015	Plantago lanceolata	SSU	Illumina	30
+1160	Vasar_2021_1HW	WANDA/AML2	24.9281	35.1811	Europe	soil	39285	shrubland	10.6	811	6.91	2014	NA_	SSU	Illumina	72
+1161	Vasar_2021_1HW	WANDA/AML2	56.0978	53.555	Europe	soil	129826	grassland	3.9	619	6.07	2018	NA_	SSU	Illumina	32
+1164	Rasmussen_2018_C8E6	NS31/AML2	19.5941	60.2355	Europe	root	60017	grassland	6.3	523	7.1	2015	Plantago lanceolata	SSU	Illumina	14
+1188	Vasar_2021_1HW	WANDA/AML2	33.5397	44.5694	Europe	soil	82944	grassland	12.2	521	6.91	2018	NA_	SSU	Illumina	55
+1198	Vasar_2021_1HW	WANDA/AML2	-3.51333	40.2711	Europe	soil	123833	shrubland	15.2	464	7.11	2018	NA_	SSU	Illumina	913
+1212	Rasmussen_2018_C8E6	NS31/AML2	19.9242	60.3448	Europe	root	37157	grassland	6.1	569	6.4	2015	Plantago lanceolata	SSU	Illumina	2
+1216	Vasar_2021_1HW	WANDA/AML2	-16.2247	28.5403	Europe	soil	15339	forest	16.2	544	4.09	2017	NA_	SSU	Illumina	25
+1217	Vasar_2021_1HW	WANDA/AML2	115.424	39.9572	Asia	soil	78738	forest	4.6	600	5.01	2012	NA_	SSU	Illumina	1
+1228	Vasar_2021_1HW	WANDA/AML2	-111.564	52.085	North America	soil	51502	grassland	3	402	4.68	2018	NA_	SSU	Illumina	25
+1229	Rasmussen_2018_C8E6	NS31/AML2	19.5401	60.2182	Europe	root	94112	grassland	6.3	522	6.5	2015	Plantago lanceolata	SSU	Illumina	2
+1273	Rasmussen_2018_C8E6	NS31/AML2	19.9274	60.3468	Europe	soil	70439	grassland	6.2	552	NA_	2015	Plantago lanceolata	SSU	Illumina	262
+1275	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.54385	46.0876	Europe	root	79274	grassland	-0.3	886	6.58	2015	Botrychium lunaria	SSU	Illumina	7
+1278	Vasar_2021_1HW	WANDA/AML2	23.8008	35.4592	Europe	soil	110641	shrubland	18.1	744	6.2	2009	NA_	SSU	Illumina	1011
+1286	Vasar_2021_1HW	WANDA/AML2	-16.3178	28.5317	Europe	soil	66140	forest	16.7	591	4.98	2017	NA_	SSU	Illumina	98
+1394	Rasmussen_2018_C8E6	NS31/AML2	20.1642	60.074	Europe	soil	60251	grassland	6.3	517	6.2	2015	Plantago lanceolata	SSU	Illumina	4
+1413	Xiang_2014_BD5B	AML1/AML2 then NS31/AM1	114.326	41.0846	Asia	soil	6601	cropland	3.5	449	7.3	2010	Zea mays	SSU	454Roche	9
+1436	Vasar_2021_1HW	WANDA/AML2	16.4597	56.5389	Europe	soil	74859	grassland	7.7	538	6.5	2010	NA_	SSU	Illumina	63
+1456	Vasar_2021_1HW	WANDA/AML2	103.215	34.7472	Asia	soil	106699	grassland	3.4	428	7.5	2014	NA_	SSU	Illumina	364
+1485	Rasmussen_2018_C8E6	NS31/AML2	20.2685	60.1407	Europe	root	219091	grassland	6.2	548	5.7	2015	Plantago lanceolata	SSU	Illumina	1
+1564	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.48378	46.2044	Europe	root	74067	grassland	-0.7	1044	5.29	2015	Botrychium lunaria	SSU	Illumina	10
+1566	Vasar_2021_1HW	WANDA/AML2	7.55	60.6089	Europe	soil	34873	tundra	-1.7	1066	4.87	2016	NA_	SSU	Illumina	165
+1586	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.53918	46.0885	Europe	root	57040	grassland	0.6	844	5.54	2015	Botrychium lunaria	SSU	Illumina	3
+1596	Rasmussen_2018_C8E6	NS31/AML2	20.2686	60.1406	Europe	root	62908	grassland	6.2	548	5.1	2015	Plantago lanceolata	SSU	Illumina	3
+1602	Rasmussen_2018_C8E6	NS31/AML2	19.7889	60.3651	Europe	root	57707	grassland	6.2	549	6.8	2015	Plantago lanceolata	SSU	Illumina	8
+1625	Rasmussen_2018_C8E6	NS31/AML2	19.8006	60.3346	Europe	root	73546	grassland	6.1	563	4.5	2015	Plantago lanceolata	SSU	Illumina	2
+1678	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.5438	46.0872	Europe	root	36877	grassland	-0.3	886	6.62	2015	Botrychium lunaria	SSU	Illumina	4
+1681	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.54401	46.0876	Europe	root	50419	grassland	-0.3	886	6.79	2015	Botrychium lunaria	SSU	Illumina	1
+1688	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.54379	46.0874	Europe	root	50422	grassland	-0.3	886	6.41	2015	Botrychium lunaria	SSU	Illumina	2
+1690	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.54386	46.0876	Europe	root	53196	grassland	-0.3	886	6.63	2015	Botrychium lunaria	SSU	Illumina	2
+1692	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.48502	46.1963	Europe	root	87050	grassland	-0.9	1041	6.41	2015	Botrychium lunaria	SSU	Illumina	3
+1694	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.485	46.1963	Europe	root	85623	grassland	-0.9	1041	5.94	2015	Botrychium lunaria	SSU	Illumina	553
+1725	Vasar_2021_1HW	WANDA/AML2	46.99	35.4283	Asia	soil	19670	desert	12.8	352	7.15	1970	NA_	SSU	Illumina	3
+1775	Vasar_2021_1HW	WANDA/AML2	26.6647	58.3608	Europe	soil	26300	grassland	5.6	644	5.61	2014	NA_	SSU	Illumina	3
+1845	Rasmussen_2018_C8E6	NS31/AML2	19.9281	60.3465	Europe	soil	125688	grassland	6.2	552	NA_	2015	Plantago lanceolata	SSU	Illumina	689
+1881	Rasmussen_2018_C8E6	NS31/AML2	19.9281	60.3465	Europe	root	26459	grassland	6.2	552	NA_	2015	Plantago lanceolata	SSU	Illumina	25
+1898	Rasmussen_2018_C8E6	NS31/AML2	19.8005	60.3343	Europe	root	72266	grassland	6.1	563	5.3	2015	Plantago lanceolata	SSU	Illumina	2
+1902	Rasmussen_2018_C8E6	NS31/AML2	20.2685	60.1407	Europe	root	68984	grassland	6.2	548	5.7	2015	Plantago lanceolata	SSU	Illumina	8
+1908	Rasmussen_2018_C8E6	NS31/AML2	19.8007	60.3344	Europe	root	46226	grassland	6.1	563	5.3	2015	Plantago lanceolata	SSU	Illumina	6
+1914	Vasar_2021_1HW	WANDA/AML2	72.2061	35.5586	Asia	soil	35026	forest	6.2	503	5.85	2015	NA_	SSU	Illumina	20
+1958	Vasar_2021_1HW	WANDA/AML2	103.214	34.7636	Asia	soil	60533	grassland	3.1	436	6.1	2014	NA_	SSU	Illumina	45
+1965	Vasar_2021_1HW	WANDA/AML2	17.2964	60.0147	Europe	soil	57250	grassland	6.1	526	4.18	2018	NA_	SSU	Illumina	11
+1978	Rasmussen_2018_C8E6	NS31/AML2	19.5941	60.2355	Europe	soil	45683	grassland	6.3	523	7.1	2015	Plantago lanceolata	SSU	Illumina	130
+2011	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2742	grassland	7.7	890	6.78	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	36
+2029	Miyake_2020_1CI	AMV4.5NF/AMDGR	139.056	35.3386	Asia	root	29734	forest	13.8	1607	NA_	2016	Chamaecyparis obtusa	SSU	IonTorrent	59
+2030	Rasmussen_2018_C8E6	NS31/AML2	19.9274	60.3471	Europe	root	70125	grassland	6.2	552	6.8	2015	Plantago lanceolata	SSU	Illumina	2
+2074	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2663	grassland	7.7	890	6.78	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	293
+2107	Vasar_2021_1HW	WANDA/AML2	23.5672	58.5856	Europe	soil	109745	forest	6.6	586	6.97	2018	NA_	SSU	Illumina	69
+2130	Vasar_2021_1HW	WANDA/AML2	32.9808	56.4553	Europe	soil	26467	forest	4.8	686	3.66	2014	NA_	SSU	Illumina	27
+2205	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2942	grassland	7.7	890	6.68	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	175
+2274	Rasmussen_2018_C8E6	NS31/AML2	20.2683	60.1408	Europe	root	50325	grassland	6.2	548	6.3	2015	Plantago lanceolata	SSU	Illumina	1
+2300	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2592	grassland	7.7	890	6.69	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	16
+2301	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2615	grassland	7.7	890	6.65	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	15
+2310	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2982	grassland	7.7	890	6.78	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	9
+2320	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	3383	grassland	7.7	890	6.69	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	40
+2331	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2983	grassland	7.7	890	6.79	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	7
+2349	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	3027	grassland	7.7	890	6.68	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	98
+2351	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2686	grassland	7.7	890	6.65	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	13
+2376	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	3270	grassland	7.7	890	6.65	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	10
+2383	Vasar_2021_1HW	WANDA/AML2	22.2878	57.6286	Europe	soil	13765	forest	6.8	635	5.08	2014	NA_	SSU	Illumina	29
+2386	Vasar_2021_1HW	WANDA/AML2	-122.243	37.8706	North America	soil	30073	shrubland	14.1	670	5.59	2016	NA_	SSU	Illumina	10
+2408	Stover_2018_1DI	NS31/AML2	-113.831	49.1145	North America	root	25354	grassland	5.1	638	7.2	2011	Danthonia paryii;Antennaria sp.;Galium boreale;Festuca idahoensis;Selaginella densa;Anemone patens;Erigeron caespitosus;Arenaria capillaris;Koeleria macrantha;Carex stenophylla;Poa pratensis	SSU	454Roche	1
+2439	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2622	grassland	7.7	890	6.78	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	20
+2454	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.48528	46.1964	Europe	root	65171	grassland	-0.9	1041	5.02	2015	Botrychium lunaria	SSU	Illumina	1
+2505	Xiang_2014_BD5B	AML1/AML2 then NS31/AM1	102.071	36.4503	Asia	soil	3334	grassland	6.3	382	8.42	2010	Leymus chinensis;Setaria viridis;Tribulus terrestris;Cenchrus incertus;Lespedeza davurica;Artemisia capillaris;Carex humilis;Carex onoei;Chloris virgata;Heteropappus altaicus;Artemisia frigida;Cleistogenes squarrosa;Stipa caucasica	SSU	454Roche	4
+2586	Xiang_2014_BD5B	AML1/AML2 then NS31/AM1	106.389	36.6687	Asia	soil	3716	cropland	6.9	447	8.83	2010	Zea mays	SSU	454Roche	4
+2618	Vasar_2021_1HW	WANDA/AML2	-71.6342	42.5244	North America	soil	13437	forest	10.1	1054	5.49	2015	NA_	SSU	Illumina	1
+2640	Rasmussen_2018_C8E6	NS31/AML2	19.8007	60.3344	Europe	root	62931	grassland	6.1	563	5.3	2015	Plantago lanceolata	SSU	Illumina	1
+2780	Vasar_2021_1HW	WANDA/AML2	132.946	43.3764	Asia	soil	83160	forest	2.2	778	4.87	2010	NA_	SSU	Illumina	9
+2784	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2478	grassland	7.7	890	6.78	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	36
+2802	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	3268	grassland	7.7	890	6.78	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	16
+2824	Rasmussen_2018_C8E6	NS31/AML2	19.9281	60.3465	Europe	root	53018	grassland	6.2	552	NA_	2015	Plantago lanceolata	SSU	Illumina	5
+2886	Vasar_2021_1HW	WANDA/AML2	-50.6792	67.0294	North America	soil	67583	tundra	-5.3	221	4.47	2017	NA_	SSU	Illumina	37
+2979	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2561	grassland	7.7	890	6.78	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	19
+2980	Xiang_2014_BD5B	AML1/AML2 then NS31/AM1	117.509	42.2967	Asia	soil	6019	grassland	2.7	389	6.08	2010	Leymus chinensis;Setaria viridis;Tribulus terrestris;Cenchrus incertus;Lespedeza davurica;Artemisia capillaris;Carex humilis;Carex onoei;Chloris virgata;Heteropappus altaicus;Artemisia frigida;Cleistogenes squarrosa;Stipa caucasica	SSU	454Roche	6
+3028	Rasmussen_2018_C8E6	NS31/AML2	19.6718	60.2137	Europe	soil	32133	grassland	6.3	504	6.1	2015	Plantago lanceolata	SSU	Illumina	331
+3050	Rasmussen_2018_C8E6	NS31/AML2	19.5432	60.2355	Europe	soil	60722	grassland	6.3	527	NA_	2015	Plantago lanceolata	SSU	Illumina	1
+3159	Sandoz_2020_1CV	AMV4.5NF/AMDGR	7.54368	46.0873	Europe	root	43123	grassland	-0.3	886	6.45	2015	Botrychium lunaria	SSU	Illumina	1
+3221	Vasar_2021_1HW	WANDA/AML2	-84.5992	10.2211	North America	soil	10864	forest	21.1	3601	NA_	2013	NA_	SSU	Illumina	1
+3305	Vasar_2021_1HW	WANDA/AML2	51.5733	30.7322	Asia	soil	4778	forest	13.3	855	7.06	2012	NA_	SSU	Illumina	10
+3325	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2727	grassland	7.7	890	6.78	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	19
+3380	Rasmussen_2018_C8E6	NS31/AML2	19.8004	60.3347	Europe	soil	50866	grassland	6.1	563	6	2015	Plantago lanceolata	SSU	Illumina	22
+3440	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2707	grassland	7.7	890	6.78	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	1
+3460	Gao_2016_113A	NS31/AML2	116.283	42.0333	Asia	soil	3109	grassland	3.3	372	7.392	2011	Stipa krylovii;Artemisia frigida;Potentilla acaulis;Cleistogenes squarrosa;Allium bidentatum;Agropyron cristatum	SSU	454Roche	3
+3483	Vasar_2021_1HW	WANDA/AML2	131.411	43.1281	Asia	soil	6496	forest	6	724	5.95	2010	NA_	SSU	Illumina	2
+3484	Vasar_2021_1HW	WANDA/AML2	134.811	48.305	Asia	soil	16931	forest	2.2	630	4.68	2014	NA_	SSU	Illumina	16
+3599	Gao_2016_113A	NS31/AML2	116.283	42.0333	Asia	soil	2757	grassland	3.3	372	7.392	2011	Stipa krylovii;Artemisia frigida;Potentilla acaulis;Cleistogenes squarrosa;Allium bidentatum;Agropyron cristatum	SSU	454Roche	1
+3636	Rasmussen_2018_C8E6	NS31/AML2	19.5392	60.2183	Europe	soil	51484	grassland	6.3	522	6.1	2015	Plantago lanceolata	SSU	Illumina	73
+3640	Davison_2015_1GM	NS31/AML2	104.058	43.5017	Asia	root	3588	grassland	-1.5	171	6.7	2012	Agropyron cristatum	SSU	454Roche	1
+3645	Rasmussen_2018_C8E6	NS31/AML2	19.5405	60.218	Europe	soil	186628	grassland	6.3	522	6	2015	Plantago lanceolata	SSU	Illumina	639
+3680	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2551	grassland	7.7	890	6.65	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	12
+3698	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	3129	grassland	7.7	890	6.79	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	14
+3791	Xiang_2014_BD5B	AML1/AML2 then NS31/AM1	120.844	44.5567	Asia	soil	8199	cropland	6.4	408	7.93	2010	Zea mays	SSU	454Roche	1
+3840	Vasar_2021_1HW	WANDA/AML2	-102.6	22.1989	North America	soil	6201	forest	15.1	685	4.68	2012	NA_	SSU	Illumina	7
+3857	Chen_2017_E3D7	NS31/AML2	118.12	29.25	Asia	root	2573	forest	15.6	2110	NA_	2011	Loropetalum chinense	SSU	454Roche	5
+3893	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2754	grassland	7.7	890	6.78	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	20
+3913	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2360	grassland	7.7	890	6.79	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	111
+4006	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	4963	grassland	7.7	890	6.65	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	7
+4061	Vasar_2021_1HW	WANDA/AML2	76.9836	43.1317	Asia	soil	71810	forest	1.6	890	4.57	2018	NA_	SSU	Illumina	243
+4092	RodriguezRamos_2021_1HT	WANDA/AML2	-119.098	56.2611	North America	soil	9071	forest	2.4	409	NA_	2016	Pinus contorta	SSU	Illumina	3
+4096	RodriguezRamos_2021_1HT	WANDA/AML2	-117.97	54.5835	North America	soil	8823	forest	2.9	685	NA_	2016	Pinus contorta	SSU	Illumina	1
+4193	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2750	grassland	7.7	890	6.68	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	4
+4195	Vasar_2021_1HW	WANDA/AML2	18.3014	57.6256	Europe	soil	49080	shrubland	7.4	552	5.74	2015	NA_	SSU	Illumina	11
+4247	Chen_2017_E3D7	NS31/AML2	118.12	29.25	Asia	root	1954	forest	15.6	2110	NA_	2011	Machilus thunbergii	SSU	454Roche	1
+4253	Davison_2015_1GM	NS31/AML2	43.4192	41.9408	Asia	root	1995	forest	7.8	984	4.8	2010	Paris incompleta	SSU	454Roche	231
+4268	Davison_2018_1AQ	NS31/AML2	-149.434	-17.5458	Australia	root	2456	forest	24.2	3140	5.3	2014	Nephrolepis hirsutula	SSU	454Roche	2
+4294	Rasmussen_2018_C8E6	NS31/AML2	19.5405	60.218	Europe	soil	49257	grassland	6.3	522	5.7	2015	Plantago lanceolata	SSU	Illumina	1
+4303	Rasmussen_2018_C8E6	NS31/AML2	20.2686	60.1406	Europe	soil	25850	grassland	6.2	548	5.1	2015	Plantago lanceolata	SSU	Illumina	130
+4440	Vasar_2021_1HW	WANDA/AML2	-17.2586	28.1269	Europe	soil	13296	forest	13.5	388	4.3	2017	NA_	SSU	Illumina	15
+4459	Rasmussen_2018_C8E6	NS31/AML2	19.9281	60.3465	Europe	soil	45617	grassland	6.2	552	NA_	2015	Plantago lanceolata	SSU	Illumina	1
+4538	Vasar_2021_1HW	WANDA/AML2	8.45083	46.8958	Europe	soil	10245	grassland	1.2	2354	6.55	2014	NA_	SSU	Illumina	2
+4623	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2735	grassland	7.7	890	6.68	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	42
+4649	Vasar_2021_1HW	WANDA/AML2	99.3003	25.2658	Asia	soil	4991	forest	12.5	1205	4.61	2014	NA_	SSU	Illumina	5
+4668	Zheng_2014_28C3	GeoA2/NS4 then NS31/AML2	101.2	37.6167	Asia	soil	3806	grassland	-0.3	362	7.17	2011	Elymus nutans;Poa pratensis;Carex scabrirostris;Scirpus distigmaticus;Gentiana straminea;Gentiana farreri;Blysmus sinocompressus;Potentilla nivea	SSU	454Roche	36
+4699	Vasar_2021_1HW	WANDA/AML2	-149.599	68.6231	North America	soil	9725	tundra	-10.1	233	4.39	2012	NA_	SSU	Illumina	3
+4728	Zheng_2014_28C3	GeoA2/NS4 then NS31/AML2	101.2	37.6167	Asia	soil	3182	grassland	-0.3	362	7.17	2011	Elymus nutans;Poa pratensis;Carex scabrirostris;Scirpus distigmaticus;Gentiana straminea;Gentiana farreri;Blysmus sinocompressus;Potentilla nivea	SSU	454Roche	1
+4764	Rasmussen_2018_C8E6	NS31/AML2	19.9242	60.3448	Europe	soil	28816	grassland	6.1	569	6.4	2015	Plantago lanceolata	SSU	Illumina	51
+4922	Vasar_2021_1HW	WANDA/AML2	74.4842	42.5617	Asia	soil	6959	shrubland	1.5	468	6.48	2015	NA_	SSU	Illumina	9
+5009	Chen_2017_E3D7	NS31/AML2	118.12	29.25	Asia	root	3193	forest	15.6	2110	NA_	2011	Schima superba	SSU	454Roche	1
+5027	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2745	grassland	7.7	890	6.68	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	42
+5090	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2659	grassland	7.7	890	6.65	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	49
+5147	Davison_2015_1GM	NS31/AML2	104.058	43.0519	Asia	root	1671	grassland	4.1	125	6.7	2012	Allium amphibolum	SSU	454Roche	10
+5232	Rasmussen_2018_C8E6	NS31/AML2	19.5405	60.218	Europe	soil	56981	grassland	6.3	522	5.8	2015	Plantago lanceolata	SSU	Illumina	61
+5260	Xiang_2014_BD5B	AML1/AML2 then NS31/AM1	111.259	37.9478	Asia	soil	1704	grassland	8.6	458	8.26	2010	Leymus chinensis;Setaria viridis;Tribulus terrestris;Cenchrus incertus;Lespedeza davurica;Artemisia capillaris;Carex humilis;Carex onoei;Chloris virgata;Heteropappus altaicus;Artemisia frigida;Cleistogenes squarrosa;Stipa caucasica	SSU	454Roche	2
+5283	Rasmussen_2018_C8E6	NS31/AML2	20.2683	60.1408	Europe	soil	69798	grassland	6.2	548	6.3	2015	Plantago lanceolata	SSU	Illumina	2
+5314	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2859	grassland	7.7	890	6.65	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	29
+5346	Rasmussen_2018_C8E6	NS31/AML2	19.5405	60.218	Europe	soil	53095	grassland	6.3	522	5.9	2015	Plantago lanceolata	SSU	Illumina	176
+5429	RodriguezRamos_2021_1HT	WANDA/AML2	-117.327	53.4129	North America	soil	7270	forest	1.4	740	NA_	2016	Pinus contorta	SSU	Illumina	7
+5563	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	3304	grassland	7.7	890	6.69	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	4
+5598	Chen_2017_E3D7	NS31/AML2	118.12	29.25	Asia	root	3148	forest	15.6	2110	NA_	2011	Morella rubra	SSU	454Roche	1
+5616	RodriguezRamos_2021_1HT	WANDA/AML2	-117.326	53.4204	North America	soil	4705	forest	1.1	750	NA_	2016	Pinus contorta	SSU	Illumina	9
+5654	Vasar_2021_1HW	WANDA/AML2	91.6058	25.3569	Asia	soil	20647	forest	15.8	9757	3.7	2018	NA_	SSU	Illumina	1
+5699	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	3026	grassland	7.7	890	6.65	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	86
+5736	Vasar_2021_1HW	WANDA/AML2	-20.6339	64.2258	Europe	soil	1535	tundra	4	1233	4.88	2015	NA_	SSU	Illumina	8
+5774	Vasar_2021_1HW	WANDA/AML2	90.9111	68.9631	Asia	soil	107981	tundra	-11.8	679	3.98	2018	NA_	SSU	Illumina	1
+5897	RodriguezRamos_2021_1HT	WANDA/AML2	-119.692	54.8126	North America	soil	7676	forest	3.6	511	NA_	2016	Pinus contorta	SSU	Illumina	40
+5898	RodriguezRamos_2021_1HT	WANDA/AML2	-117.326	53.4204	North America	soil	4859	forest	1.1	750	NA_	2016	Pinus contorta	SSU	Illumina	1
+5902	RodriguezRamos_2021_1HT	WANDA/AML2	-116.922	53.3371	North America	soil	4522	forest	2.9	671	NA_	2016	Pinus contorta	SSU	Illumina	5
+5994	Chen_2017_E3D7	NS31/AML2	118.12	29.25	Asia	root	3508	forest	15.6	2110	NA_	2011	Ternstroemia gymnanthera	SSU	454Roche	2
+6091	RodriguezRamos_2021_1HT	WANDA/AML2	-117.969	54.5813	North America	soil	8412	forest	2.8	713	NA_	2016	Pinus contorta	SSU	Illumina	1
+6099	Vasar_2021_1HW	WANDA/AML2	39.4503	40.2353	Asia	soil	4063	shrubland	6.4	443	6.62	2015	NA_	SSU	Illumina	11
+6637	Vasar_2021_1HW	WANDA/AML2	-149.501	60.9994	North America	soil	6778	forest	3.3	659	5.3	2018	NA_	SSU	Illumina	2
+6640	Goldmann_2020_1BF	GlomerWT0/Glomer1536 then NS31/AM1A; GlomerWT0/Glomer1536 then NS31/AM1B	9.46007	48.4587	Europe	soil	2752	grassland	7.7	890	6.65	2011	Plantago lanceolata;Festuca rubra;Helictotrichon pubescens	SSU	454Roche	3
+7055	Vasar_2021_1HW	WANDA/AML2	21.5708	69.8906	Europe	soil	5535	forest	-0.6	717	3.57	2012	NA_	SSU	Illumina	2

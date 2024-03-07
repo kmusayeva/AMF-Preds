@@ -1,0 +1,23 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+45	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8917	50.2486	Europe	root	19003	grassland	9.2	588	7.38	2018	Tanacetum vulgare	ITS2	Illumina	460
+109	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3547	50.0572	Europe	root	15801	grassland	8.7	485	6.29	2018	Arrhenatherum elatius	ITS2	Illumina	1
+127	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2944	50.085	Europe	root	14246	grassland	8.4	491	7.08	2018	Arrhenatherum elatius	ITS2	Illumina	1
+148	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.5166	49.6275	Europe	soil	11493	grassland	8.5	541	6.57	2013	NA_	ITS2	Illumina	5
+158	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6442	50.5714	Europe	root	12807	grassland	8.6	577	5.47	2018	Arrhenatherum elatius	ITS2	Illumina	339
+196	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6825	50.2078	Europe	root	16415	grassland	9.5	534	6.51	2018	Daucus carota	ITS2	Illumina	1
+211	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6514	50.5714	Europe	root	19950	grassland	8.7	580	6.42	2018	Daucus carota	ITS2	Illumina	1
+227	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.1148	49.0526	Europe	soil	17192	grassland	9	499	7.06	2013	NA_	ITS2	Illumina	4
+246	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3697	50.1393	Europe	root	15567	grassland	8.9	464	7.09	2018	Artemisia vulgaris	ITS2	Illumina	1
+249	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5414	50.0267	Europe	root	13110	grassland	8.9	535	5.18	2018	Arrhenatherum elatius	ITS2	Illumina	1
+266	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5419	50.0269	Europe	root	16679	grassland	9	512	6.48	2018	Tanacetum vulgare	ITS2	Illumina	143
+318	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2922	50.1147	Europe	topsoil	23062	grassland	8.5	506	6.25	2018	Symphiotrichum novi-belgii	ITS2	Illumina	1
+350	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6308	50.0867	Europe	root	16929	grassland	9.1	556	4.7	2018	Daucus carota	ITS2	Illumina	1
+368	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3542	50.0572	Europe	root	6873	grassland	8.7	485	7.25	2018	Achillea millefolium	ITS2	Illumina	1
+467	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3542	50.0572	Europe	root	15638	grassland	8.7	485	7.25	2018	Arrhenatherum elatius	ITS2	Illumina	1
+634	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	13.26	50.5	Europe	soil	20971	grassland	5.6	788	NA_	2013	NA_	ITS2	Illumina	1
+646	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8917	50.2486	Europe	root	16985	grassland	9.2	588	7.38	2018	Erigeron annuus	ITS2	Illumina	1552
+663	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6792	50.21	Europe	root	6463	grassland	9.4	558	4.93	2018	Tanacetum vulgare	ITS2	Illumina	1
+684	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2792	50.0853	Europe	root	10256	grassland	8.4	507	7.1	2018	Achillea millefolium	ITS2	Illumina	1
+829	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3697	50.1393	Europe	root	5068	grassland	8.9	464	7.09	2018	Daucus carota	ITS2	Illumina	1
+852	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3386	49.9989	Europe	root	89	grassland	9	460	7.55	2018	Achillea millefolium	ITS2	Illumina	1
+861	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3542	50.0572	Europe	root	54	grassland	8.7	485	7.25	2018	Achillea millefolium	ITS2	Illumina	1

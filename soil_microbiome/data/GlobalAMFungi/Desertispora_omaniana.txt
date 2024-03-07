@@ -1,0 +1,2 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+7827	SenesGuerrero_2020_1HV	SSUmAf1+2/LSUmAr1 to 4 then LSU‐D2Af/LSUmBr	-99.6236	24.8807	North America	root	16498	cropland	23.7	681	8.14	2017	Glycine max	LSU	Illumina	13

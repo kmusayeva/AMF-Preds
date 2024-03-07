@@ -1,0 +1,128 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+8	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3542	50.0572	Europe	root	20862	grassland	8.7	485	7.25	2018	Achillea millefolium	ITS2	Illumina	1
+10	DeCastro_2018_1AS	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr then ITS3/ITS4	14.0475	40.8485	Europe	root	97766	aquatic	17.4	831	NA_	2013	Pancratium maritimum	ITS2	Illumina	27
+11	DeCastro_2018_1AS	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr then ITS3/ITS4	14.0475	40.8485	Europe	root	85159	aquatic	17.4	831	NA_	2013	Pancratium maritimum	ITS2	Illumina	32
+13	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2897	50.115	Europe	root	25278	grassland	8.5	509	6.33	2018	Symphiotrichum novi-belgii	ITS2	Illumina	1
+20	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6369	50.0903	Europe	root	23408	grassland	9.1	563	5.99	2018	Achillea millefolium	ITS2	Illumina	59
+45	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8917	50.2486	Europe	root	19003	grassland	9.2	588	7.38	2018	Tanacetum vulgare	ITS2	Illumina	3
+51	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	17814	grassland	9.1	563	5.37	2018	Arrhenatherum elatius	ITS2	Illumina	1
+52	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8917	50.2486	Europe	root	17101	grassland	9.2	588	7.38	2018	Tanacetum vulgare	ITS2	Illumina	95
+61	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	17.0863	49.5288	Europe	root	15439	grassland	9.1	617	7.66	2018	Artemisia vulgaris	ITS2	Illumina	1
+62	DeCastro_2018_1AS	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr then ITS3/ITS4	14.0475	40.8485	Europe	root	104517	aquatic	17.4	831	NA_	2013	Pancratium maritimum	ITS2	Illumina	1
+68	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5419	50.0269	Europe	root	20013	grassland	9	512	6.48	2018	Arrhenatherum elatius	ITS2	Illumina	1
+72	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.4699	49.0012	Europe	soil	26592	grassland	9.8	633	7.02	2013	NA_	ITS2	Illumina	1
+79	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5414	50.0267	Europe	root	15093	grassland	8.9	535	5.18	2018	Solidago canadensis	ITS2	Illumina	1
+83	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6792	50.21	Europe	root	24029	grassland	9.4	558	4.93	2018	Solidago canadensis	ITS2	Illumina	32
+84	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	root	18410	grassland	9.1	585	7.51	2018	Artemisia vulgaris	ITS2	Illumina	1
+87	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.8503	48.9404	Europe	soil	30925	grassland	8.1	665	5.25	2013	NA_	ITS2	Illumina	7
+89	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	15.5127	49.8349	Europe	soil	24782	grassland	8.9	558	5.24	2013	NA_	ITS2	Illumina	1
+105	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.2164	49.1564	Europe	soil	24618	grassland	9.1	488	5.77	2013	NA_	ITS2	Illumina	1
+107	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2897	50.115	Europe	root	17727	grassland	8.5	509	6.33	2018	Achillea millefolium	ITS2	Illumina	11
+108	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3336	49.9992	Europe	root	16427	grassland	9	460	7.59	2018	Arrhenatherum elatius	ITS2	Illumina	4
+111	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6371	50.0901	Europe	root	20857	grassland	9.1	563	4.62	2018	Arrhenatherum elatius	ITS2	Illumina	1
+115	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	17.0863	49.5288	Europe	root	16367	grassland	9.1	617	7.66	2018	Arrhenatherum elatius	ITS2	Illumina	13
+119	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3542	50.0572	Europe	root	13681	grassland	8.7	485	7.25	2018	Arrhenatherum elatius	ITS2	Illumina	5
+120	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.4699	49.0578	Europe	soil	18909	grassland	10	565	6.31	2013	NA_	ITS2	Illumina	1
+125	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.1779	49.8909	Europe	soil	26261	grassland	6.9	945	6.07	2013	NA_	ITS2	Illumina	1
+137	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6356	50.0864	Europe	root	19713	grassland	9.1	563	5.57	2018	Tanacetum vulgare	ITS2	Illumina	5
+145	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.8502	49.7318	Europe	soil	34663	grassland	8.3	669	7.29	2013	NA_	ITS2	Illumina	3
+146	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	23600	grassland	9.1	563	5.37	2018	Tanacetum vulgare	ITS2	Illumina	1
+165	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7354	Europe	root	15737	grassland	9.1	585	7.41	2018	Artemisia vulgaris	ITS2	Illumina	5
+187	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7354	Europe	root	21092	grassland	9.1	585	7.41	2018	Arrhenatherum elatius	ITS2	Illumina	39
+195	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.3383	49.0284	Europe	soil	30702	grassland	9.6	531	7.58	2013	NA_	ITS2	Illumina	1
+212	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8922	50.2481	Europe	root	16830	grassland	9.2	588	7.43	2018	Daucus carota	ITS2	Illumina	11
+214	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6371	50.0901	Europe	root	22287	grassland	9.1	563	4.62	2018	Daucus carota	ITS2	Illumina	1
+219	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5419	50.0269	Europe	root	17236	grassland	9	512	6.48	2018	Tanacetum vulgare	ITS2	Illumina	1
+227	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.1148	49.0526	Europe	soil	17192	grassland	9	499	7.06	2013	NA_	ITS2	Illumina	2
+228	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6792	50.21	Europe	root	17971	grassland	9.4	558	4.93	2018	Arrhenatherum elatius	ITS2	Illumina	2
+231	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.737	49.9184	Europe	soil	19386	grassland	8.4	639	5.64	2013	NA_	ITS2	Illumina	1
+264	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.3708	50.0913	Europe	soil	18821	grassland	7.7	783	4.96	2013	NA_	ITS2	Illumina	1
+266	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5419	50.0269	Europe	root	16679	grassland	9	512	6.48	2018	Tanacetum vulgare	ITS2	Illumina	3
+272	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7354	Europe	root	17857	grassland	9.1	585	7.41	2018	Arrhenatherum elatius	ITS2	Illumina	48
+278	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6369	50.0903	Europe	root	24163	grassland	9.1	563	5.99	2018	Daucus carota	ITS2	Illumina	1
+297	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6371	50.0901	Europe	root	21242	grassland	9.1	563	4.62	2018	Symphiotrichum novi-belgii	ITS2	Illumina	1
+308	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3336	49.9992	Europe	root	10003	grassland	9	460	7.59	2018	Arrhenatherum elatius	ITS2	Illumina	3
+321	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8917	50.2486	Europe	root	16193	grassland	9.2	588	7.38	2018	Tanacetum vulgare	ITS2	Illumina	13
+347	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7354	Europe	root	17760	grassland	9.1	585	7.41	2018	Artemisia vulgaris	ITS2	Illumina	2
+353	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3547	50.0572	Europe	root	17755	grassland	8.7	485	6.29	2018	Echinops sphaerocephalus	ITS2	Illumina	1
+354	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	root	17299	grassland	9.1	585	7.51	2018	Daucus carota	ITS2	Illumina	1
+369	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6825	50.2078	Europe	root	14624	grassland	9.5	534	6.51	2018	Arrhenatherum elatius	ITS2	Illumina	1
+389	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7354	Europe	root	19103	grassland	9.1	585	7.41	2018	Daucus carota	ITS2	Illumina	3
+395	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	root	19829	grassland	9.1	585	7.51	2018	Arrhenatherum elatius	ITS2	Illumina	2
+397	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6369	50.0903	Europe	root	22874	grassland	9.1	563	5.99	2018	Daucus carota	ITS2	Illumina	75
+399	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	17.0863	49.5288	Europe	root	16401	grassland	9.1	617	7.66	2018	Artemisia vulgaris	ITS2	Illumina	1
+404	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3547	50.0572	Europe	root	8611	grassland	8.7	485	6.29	2018	Arrhenatherum elatius	ITS2	Illumina	8
+429	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	18464	grassland	9.1	563	5.37	2018	Arrhenatherum elatius	ITS2	Illumina	6
+430	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.7571	49.0885	Europe	soil	26176	grassland	8.8	709	5.56	2013	NA_	ITS2	Illumina	1
+433	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	root	19467	grassland	9.1	585	7.51	2018	Daucus carota	ITS2	Illumina	1
+440	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.9808	49.4158	Europe	soil	10225	grassland	8.6	770	5.73	2013	NA_	ITS2	Illumina	3
+474	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8917	50.2486	Europe	root	12637	grassland	9.2	588	7.38	2018	Erigeron annuus	ITS2	Illumina	40
+488	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	root	18493	grassland	9.1	585	7.51	2018	Artemisia vulgaris	ITS2	Illumina	4
+508	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8917	50.2486	Europe	root	17493	grassland	9.2	588	7.38	2018	Daucus carota	ITS2	Illumina	42
+528	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	root	18845	grassland	9.1	585	7.51	2018	Arrhenatherum elatius	ITS2	Illumina	41
+544	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6792	50.21	Europe	root	17883	grassland	9.4	558	4.93	2018	Daucus carota	ITS2	Illumina	1
+559	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6342	50.0867	Europe	root	18471	grassland	9.1	563	4.77	2018	Daucus carota	ITS2	Illumina	1
+608	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6356	50.0864	Europe	root	24323	grassland	9.1	563	5.57	2018	Tanacetum vulgare	ITS2	Illumina	3
+610	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7354	Europe	root	11602	grassland	9.1	585	7.41	2018	Arrhenatherum elatius	ITS2	Illumina	8
+613	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6369	50.0903	Europe	root	20802	grassland	9.1	563	5.99	2018	Arrhenatherum elatius	ITS2	Illumina	8
+621	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6369	50.0903	Europe	root	22177	grassland	9.1	563	5.99	2018	Daucus carota	ITS2	Illumina	4
+631	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5414	50.0267	Europe	root	11366	grassland	8.9	535	5.18	2018	Arrhenatherum elatius	ITS2	Illumina	1
+648	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2922	50.1147	Europe	root	18141	grassland	8.5	506	6.25	2018	Arrhenatherum elatius	ITS2	Illumina	1
+698	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.2269	49.1059	Europe	soil	10547	grassland	9.1	506	5.62	2013	NA_	ITS2	Illumina	3
+888	Vasar_2021_1HW	WANDA/AML2	-48.8525	-15.81	South America	soil	146654	grassland	21	1926	3.36	2016	NA_	SSU	Illumina	264
+928	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.938	28.2102	Asia	soil	64688	grassland	19.2	1815	4.38	2014	Pinus massoniana	SSU	Illumina	3
+1050	Vasar_2021_1HW	WANDA/AML2	-47.5569	-14.7919	South America	soil	105818	grassland	22	1364	3.61	2016	NA_	SSU	Illumina	126
+1051	Vasar_2021_1HW	WANDA/AML2	-47.4806	-13.5606	South America	soil	133994	shrubland	21.9	1830	3.9	2016	NA_	SSU	Illumina	534
+1061	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	163076	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	5
+1076	Vasar_2021_1HW	WANDA/AML2	-39.1928	-8.45583	South America	soil	82126	shrubland	27	538	5.58	2018	NA_	SSU	Illumina	2718
+1147	Vasar_2021_1HW	WANDA/AML2	98.3225	7.9325	Asia	soil	935	forest	26.8	2842	4.2	2017	NA_	SSU	Illumina	3
+1159	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.93	28.2068	Asia	soil	75699	cropland	19.2	1825	5.47	2014	Brassica napus;Arachis hypogaea 	SSU	Illumina	3
+1177	Vasar_2021_1HW	WANDA/AML2	-47.4783	-13.6367	South America	soil	44667	shrubland	21.3	1964	3.97	2016	NA_	SSU	Illumina	440
+1207	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.9	28.2618	Asia	soil	83916	cropland	19.1	1845	4.33	2014	Manihot esculenta	SSU	Illumina	3
+1267	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	105092	forest	20.7	2167	3.6	2015	Pinus massoniana;Cratoxylum cochinchinense;Mallotus paniculatus;Evodia lepta;Dicranopteris pedata	SSU	Illumina	2
+1346	Jiang_2020_1BX	AMV4.5NF/AMDGR	110.4	22.7092	Asia	rhizosphere soil	135116	cropland	22.1	1605	4.83	2018	Litchi chinensis	SSU	Illumina	1
+1372	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.911	28.252	Asia	soil	66763	cropland	19.1	1850	4.8	2014	Oryza sativa	SSU	Illumina	9
+1387	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.935	28.2067	Asia	soil	93274	woodland	19.2	1808	3.93	2014	NA_	SSU	Illumina	4
+1388	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	106685	forest	20.7	2167	3.6	2015	Pinus massoniana;Cratoxylum cochinchinense;Mallotus paniculatus;Evodia lepta;Dicranopteris pedata	SSU	Illumina	2
+1399	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	170184	forest	20.7	2167	3.6	2015	Pinus massoniana;Cratoxylum cochinchinense;Mallotus paniculatus;Evodia lepta;Dicranopteris pedata	SSU	Illumina	2
+1400	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	130946	forest	20.7	2167	3.6	2015	Pinus massoniana;Cratoxylum cochinchinense;Mallotus paniculatus;Evodia lepta;Dicranopteris pedata	SSU	Illumina	1
+1402	Liu_2021_1IJ	AML1/AML2 then AMV4.5NF/AMDGR	115.71	29.28	Asia	soil	23936	grassland	17.8	1730	7	2018	Eremochloa ophiuroides	SSU	Illumina	1
+1447	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.913	28.2549	Asia	soil	82903	woodland	19.1	1850	4.6	2014	NA_	SSU	Illumina	2845
+1448	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	141652	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	5
+1449	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	136171	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	5
+1519	Vasar_2021_1HW	WANDA/AML2	18.9556	-33.9881	Africa	soil	107124	shrubland	15.6	1120	4.33	2010	NA_	SSU	Illumina	3822
+1551	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	134407	forest	20.7	2167	3.6	2015	Pinus massoniana;Cratoxylum cochinchinense;Mallotus paniculatus;Evodia lepta;Dicranopteris pedata	SSU	Illumina	1
+1569	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	94128	forest	20.7	2167	3.6	2015	Pinus massoniana;Cratoxylum cochinchinense;Mallotus paniculatus;Evodia lepta;Dicranopteris pedata	SSU	Illumina	3
+1672	Vasar_2021_1HW	WANDA/AML2	-48.8522	-15.81	South America	soil	9586	shrubland	21	1926	4.11	2016	NA_	SSU	Illumina	436
+1723	Ezeokoli_2020_1AW	AML1/AML2 then AMV4.5NF/AMDGR	29.2022	-26.0083	Africa	soil	131164	grassland	16.1	738	4.03	2017	Eragostis tef	SSU	Illumina	37
+1820	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	86887	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	2
+1848	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	166140	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	1
+1869	Vasar_2021_1HW	WANDA/AML2	-39.1928	-8.45583	South America	soil	9866	desert	27	538	5.43	2018	NA_	SSU	Illumina	916
+1885	Jiang_2020_1BX	AMV4.5NF/AMDGR	109.189	22.4139	Asia	rhizosphere soil	142521	cropland	22.7	1604	4.45	2018	Litchi chinensis	SSU	Illumina	1
+1949	Liu_2021_1IJ	AML1/AML2 then AMV4.5NF/AMDGR	115.71	29.28	Asia	soil	29795	grassland	17.8	1730	6	2018	Eremochloa ophiuroides	SSU	Illumina	14
+1961	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	89368	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	1
+1983	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	166561	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	3
+2043	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	105369	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	1
+2091	Jiang_2020_1BX	AMV4.5NF/AMDGR	110.137	23.2556	Asia	rhizosphere soil	103569	cropland	22.3	1565	4.63	2018	Litchi chinensis	SSU	Illumina	6
+2153	Jiang_2020_1BX	AMV4.5NF/AMDGR	109.409	18.3314	Asia	rhizosphere soil	110809	cropland	24.8	1672	5.84	2018	Mangifera indica	SSU	Illumina	1
+2197	Liu_2021_1IJ	AML1/AML2 then AMV4.5NF/AMDGR	115.71	29.28	Asia	soil	24588	grassland	17.8	1730	7	2018	Eremochloa ophiuroides	SSU	Illumina	7
+2201	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.917	28.2449	Asia	soil	32794	woodland	19.2	1818	4.37	2014	Castanea mollissima	SSU	Illumina	3
+2260	Jiang_2020_1BX	AMV4.5NF/AMDGR	110.304	22.6406	Asia	rhizosphere soil	107785	cropland	22.2	1568	4.7	2018	Litchi chinensis	SSU	Illumina	1
+2262	Jiang_2020_1BX	AMV4.5NF/AMDGR	110.137	23.2556	Asia	rhizosphere soil	131570	cropland	22.3	1565	4.63	2018	Litchi chinensis	SSU	Illumina	4
+2263	Jiang_2020_1BX	AMV4.5NF/AMDGR	110.137	23.2556	Asia	rhizosphere soil	143871	cropland	22.3	1565	4.63	2018	Litchi chinensis	SSU	Illumina	109
+2264	Jiang_2020_1BX	AMV4.5NF/AMDGR	110.619	19.5967	Asia	rhizosphere soil	122661	cropland	24.5	1872	4.45	2018	Litchi chinensis	SSU	Illumina	2
+2409	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	110825	forest	20.7	2167	3.6	2015	Pinus massoniana;Cratoxylum cochinchinense;Mallotus paniculatus;Evodia lepta;Dicranopteris pedata	SSU	Illumina	1
+2520	Jiang_2020_1BX	AMV4.5NF/AMDGR	110.619	19.5967	Asia	rhizosphere soil	149373	cropland	24.5	1872	4.45	2018	Litchi chinensis	SSU	Illumina	1
+2590	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	89649	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	1
+2632	Liu_2021_1IJ	AML1/AML2 then AMV4.5NF/AMDGR	115.71	29.28	Asia	soil	20960	grassland	17.8	1730	6	2018	Eremochloa ophiuroides	SSU	Illumina	1
+2739	Jiang_2020_1BX	AMV4.5NF/AMDGR	110.279	19.9025	Asia	rhizosphere soil	148179	cropland	24.2	1807	6.45	2018	Litchi chinensis	SSU	Illumina	1
+2766	Liu_2021_1IJ	AML1/AML2 then AMV4.5NF/AMDGR	115.71	29.28	Asia	soil	11184	grassland	17.8	1730	6	2018	Eremochloa ophiuroides	SSU	Illumina	1
+2939	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.932	28.2089	Asia	soil	87303	woodland	19.2	1831	4.3	2014	Castanea mollissima;Lespedeza bicolor	SSU	Illumina	5
+3019	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.936	28.2087	Asia	soil	95881	woodland	19.2	1815	4.41	2014	Pinus sp.	SSU	Illumina	1
+3486	Jiang_2020_1BX	AMV4.5NF/AMDGR	110.141	23.1644	Asia	rhizosphere soil	107096	cropland	22.3	1500	4.89	2018	Litchi chinensis	SSU	Illumina	1
+3845	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	184172	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	3
+4567	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.912	28.2549	Asia	soil	34222	cropland	19.1	1850	4.49	2014	Citrus reticulata	SSU	Illumina	2
+5035	Sun_2016_185C	AML1/AML2 then NS31/AM1	111.037	29.6567	Asia	soil	4570	anthropogenic	17.1	1118	4.85	2012	Miscanthus floridulu	SSU	454Roche	31
+5063	Vasar_2021_1HW	WANDA/AML2	-44.6706	-22.3978	South America	soil	4984	shrubland	10.9	1838	3.71	2018	NA_	SSU	Illumina	6
+5378	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.911	28.252	Asia	soil	70392	woodland	19.1	1850	4.28	2014	NA_	SSU	Illumina	1
+5803	Wang_2021_1GZ	AMV4.5NF/AMDGR	116.9	28.2618	Asia	soil	88173	woodland	19.1	1845	4.55	2014	Castanea mollissima	SSU	Illumina	2

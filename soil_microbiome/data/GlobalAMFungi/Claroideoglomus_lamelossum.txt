@@ -1,0 +1,9 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+7825	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32131	50.8757	Europe	soil	26079	cropland	10.6	639	7.9	2016	Medicago sativa	LSU	Illumina	509
+7843	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32235	50.8758	Europe	soil	37899	cropland	10.6	639	7.8	2016	Medicago sativa	LSU	Illumina	1
+7855	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31558	50.8714	Europe	soil	22484	cropland	10.2	676	7.8	2016	Hordeum vulgare 	LSU	Illumina	1
+7897	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31815	50.8653	Europe	soil	26977	cropland	10.2	686	7.9	2016	Hordeum vulgare 	LSU	Illumina	7
+7912	Lekberg_2013_37D2	FLR3/FLR4	-114.002	46.7409	North America	root	8033	anthropogenic	7.4	457	6.6	2010	Centaurea stoebe	LSU	454Roche	4
+7973	Lekberg_2013_37D2	FLR3/FLR4	-113.979	46.8474	North America	root	12155	anthropogenic	7.3	472	6.9	2010	Centaurea stoebe	LSU	454Roche	6
+8078	Lekberg_2013_37D2	FLR3/FLR4	-114.036	46.9584	North America	root	12880	anthropogenic	6.9	517	6.4	2010	Centaurea stoebe	LSU	454Roche	6
+8155	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.68	55.6	Europe	soil	1349	cropland	8	624	5.3	2011	Hordeum vulgare 	LSU	454Roche	8

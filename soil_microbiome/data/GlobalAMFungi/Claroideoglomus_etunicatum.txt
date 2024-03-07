@@ -1,0 +1,16 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+7845	Lekberg_2013_37D2	FLR3/FLR4	-114.022	46.7358	North America	root	34470	anthropogenic	8	439	6.6	2010	Achillaea millefolium;Antennaria sp.;Artemisia;Bromus tectorum;Centaurea maculosa;Ericameria nauseosa;Euphorbia esula;Lupinus sp.;Native bunchgrass;Potentilla recta	LSU	454Roche	421
+7847	Lekberg_2013_37D2	FLR3/FLR4	-114.022	46.7009	North America	root	37614	anthropogenic	7.8	460	6.5	2010	Achillaea millefolium;Antennaria sp.;Artemisia;Astragalus sp.;Centaurea maculosa;Delphinium;Euphorbia esula;Lithospermum ruderale;Lupinus sp.;Native bunchgrass;Potentilla recta;Taraxacum officinale;Tragopogon dubius	LSU	454Roche	4
+7912	Lekberg_2013_37D2	FLR3/FLR4	-114.002	46.7409	North America	root	8033	anthropogenic	7.4	457	6.6	2010	Centaurea stoebe	LSU	454Roche	4
+7963	Lekberg_2013_37D2	FLR3/FLR4	-114.031	46.9329	North America	root	6439	anthropogenic	8.1	446	6.5	2010	Euphorbia esula	LSU	454Roche	1
+7975	Lekberg_2013_37D2	FLR3/FLR4	-113.984	46.8449	North America	root	6501	anthropogenic	8.4	407	6.9	2010	Euphorbia esula	LSU	454Roche	3
+7991	Lekberg_2013_37D2	FLR3/FLR4	-113.984	46.9061	North America	root	4379	anthropogenic	7.7	474	6.7	2010	Centaurea stoebe	LSU	454Roche	5
+8004	Lekberg_2013_37D2	FLR3/FLR4	-113.98	46.9029	North America	root	3555	anthropogenic	7.9	432	6.5	2010	Bromus tectorum	LSU	454Roche	6
+8078	Lekberg_2013_37D2	FLR3/FLR4	-114.036	46.9584	North America	root	12880	anthropogenic	6.9	517	6.4	2010	Centaurea stoebe	LSU	454Roche	14
+8088	Lekberg_2013_37D2	FLR3/FLR4	-113.984	46.9035	North America	root	16261	anthropogenic	7.7	474	6.5	2010	Achillaea millefolium;Balamhoriza sagitatta;Bromus tectorum;Lithospermum ruderale;Lupinus sp.;Native bunchgrass;Sysimbrium altissimum;Taraxacum officinale	LSU	454Roche	51
+8097	Lekberg_2013_37D2	FLR3/FLR4	-114.032	46.9332	North America	root	6051	anthropogenic	8.1	446	6.3	2010	Bromus tectorum	LSU	454Roche	17
+8121	Lekberg_2013_37D2	FLR3/FLR4	-114.101	46.9953	North America	root	9473	anthropogenic	7.2	529	6.5	2010	Bromus tectorum	LSU	454Roche	18
+8178	Lekberg_2013_37D2	FLR3/FLR4	-114.035	46.9596	North America	root	12121	anthropogenic	6.9	517	6.4	2010	Achillaea millefolium;Antennaria sp.;Cynoglossum officinale;Lithospermum ruderale;Native bunchgrass;Potentilla recta;Taraxacum officinale;Veronica verna	LSU	454Roche	2
+8180	Gorzelak_2017_5D2D	FLR3/FLR4	-117.718	49.679	North America	root	611	forest	3.9	661	NA_	NA_	Thuja plicata;Symphoricarpos albus;Mahonia sp.;Linnea borealis;Paxistima myrsinites	LSU	454Roche	7
+8205	Lekberg_2013_37D2	FLR3/FLR4	-113.975	46.8537	North America	root	7704	anthropogenic	6.5	494	6.5	2010	Bromus tectorum	LSU	454Roche	6
+8269	Gorzelak_2017_5D2D	FLR3/FLR4	-121.218	53.7627	North America	root	1281	forest	3.9	666	NA_	NA_	Thuja plicata;Cornus canadensis;Oplopanax horridus	LSU	454Roche	3

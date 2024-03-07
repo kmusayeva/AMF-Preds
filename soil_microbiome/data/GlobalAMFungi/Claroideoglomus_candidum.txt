@@ -1,0 +1,18 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+7825	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32131	50.8757	Europe	soil	26079	cropland	10.6	639	7.9	2016	Medicago sativa	LSU	Illumina	2
+7833	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.3176	50.8646	Europe	soil	35738	cropland	10.2	686	7.8	2016	Hordeum vulgare 	LSU	Illumina	2
+7842	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.3185	50.8661	Europe	soil	32400	cropland	10.2	686	7.9	2016	Hordeum vulgare 	LSU	Illumina	5
+7843	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32235	50.8758	Europe	soil	37899	cropland	10.6	639	7.8	2016	Medicago sativa	LSU	Illumina	73
+7854	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31557	50.8721	Europe	soil	26628	cropland	10.2	676	7.9	2016	Hordeum vulgare 	LSU	Illumina	195
+7857	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.3163	50.8708	Europe	soil	28111	cropland	10.2	676	7.9	2016	Hordeum vulgare 	LSU	Illumina	1
+7902	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32888	50.8772	Europe	soil	19458	cropland	10.5	662	7.8	2016	Medicago sativa	LSU	Illumina	1
+7926	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.45	56.65	Europe	soil	2163	cropland	6.7	992	6.1	2012	Beta vulgaris	LSU	454Roche	34
+7951	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32296	50.8751	Europe	soil	19725	cropland	10.6	639	7.9	2016	Medicago sativa	LSU	Illumina	498
+7975	Lekberg_2013_37D2	FLR3/FLR4	-113.984	46.8449	North America	root	6501	anthropogenic	8.4	407	6.9	2010	Euphorbia esula	LSU	454Roche	1
+8114	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.03	55.78	Europe	soil	1232	cropland	8.1	645	8.2	2012	Triticum aestivum 	LSU	454Roche	5
+8155	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.68	55.6	Europe	soil	1349	cropland	8	624	5.3	2011	Hordeum vulgare 	LSU	454Roche	38
+8198	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.6	55.58	Europe	soil	2747	cropland	7.9	587	5.4	2011	Hordeum vulgare 	LSU	454Roche	1
+8216	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	127	grassland	9.4	481	6.93	2010	Festuca brevipila	LSU	454Roche	4
+8240	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	177	grassland	9.4	481	6.775	2010	Festuca brevipila	LSU	454Roche	4
+8308	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.01	55.75	Europe	soil	2414	grassland	8.2	617	6.6	2012	NA_	LSU	454Roche	11
+8320	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	264	grassland	9.4	481	6.43	2010	Festuca brevipila	LSU	454Roche	1

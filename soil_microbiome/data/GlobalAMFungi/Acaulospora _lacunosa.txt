@@ -1,0 +1,86 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+3	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6514	50.5714	Europe	root	13138	grassland	8.7	580	6.42	2018	Arrhenatherum elatius	ITS2	Illumina	8
+23	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.0811	48.8065	Europe	soil	22262	grassland	10.3	522	6.46	2013	NA_	ITS2	Illumina	10
+33	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3481	50.0583	Europe	topsoil	23991	grassland	8.7	467	6.76	2018	Symphiotrichum novi-belgii	ITS2	Illumina	3
+38	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	13530	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	2
+47	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5419	50.0269	Europe	topsoil	23690	grassland	9	512	6.48	2018	Solidago canadensis	ITS2	Illumina	5
+57	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.28785	40.8178	Europe	soil	9759	grassland	15.5	552	5.92	2011	NA_	ITS2	454Roche	104
+81	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6514	50.5714	Europe	root	18292	grassland	8.7	580	6.42	2018	Daucus carota	ITS2	Illumina	3
+122	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	2691	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	194
+123	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6514	50.5714	Europe	root	24687	grassland	8.7	580	6.42	2018	Erigeron annuus	ITS2	Illumina	3
+124	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6825	50.2078	Europe	topsoil	13824	grassland	9.5	534	6.51	2018	Solidago canadensis	ITS2	Illumina	1
+125	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.1779	49.8909	Europe	soil	26261	grassland	6.9	945	6.07	2013	NA_	ITS2	Illumina	1
+130	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	-1.34	51.9	Europe	soil	33008	grassland	9.8	643	7.01	2012	NA_	ITS2	454Roche	3365
+134	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2897	50.115	Europe	root	18004	grassland	8.5	509	6.33	2018	Daucus carota	ITS2	Illumina	1
+139	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	-1.87	46.75	Europe	soil	5185	forest	12.8	801	5.41	2012	NA_	ITS2	454Roche	6
+171	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5414	50.0267	Europe	root	14644	grassland	8.9	535	5.18	2018	Daucus carota	ITS2	Illumina	1
+179	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	topsoil	20641	grassland	9.1	563	5.37	2018	Solidago canadensis	ITS2	Illumina	1
+181	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	8.59	47.14	Europe	soil	16351	grassland	8.7	1567	6	2012	NA_	ITS2	454Roche	684
+184	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6514	50.5714	Europe	root	22719	grassland	8.7	580	6.42	2018	Erigeron annuus	ITS2	Illumina	13
+193	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6514	50.5714	Europe	root	10927	grassland	8.7	580	6.42	2018	Erigeron annuus	ITS2	Illumina	56
+194	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6442	50.5714	Europe	root	21249	grassland	8.6	577	5.47	2018	Daucus carota	ITS2	Illumina	3
+203	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6442	50.5714	Europe	root	16943	grassland	8.6	577	5.47	2018	Daucus carota	ITS2	Illumina	1
+215	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6356	50.0864	Europe	root	17266	grassland	9.1	563	5.57	2018	Arrhenatherum elatius	ITS2	Illumina	1
+228	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6792	50.21	Europe	root	17971	grassland	9.4	558	4.93	2018	Arrhenatherum elatius	ITS2	Illumina	5
+229	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.80108	52.0292	Europe	soil	4309	grassland	10	833	5.06	2011	NA_	ITS2	454Roche	151
+232	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.2117	50.3296	Europe	soil	25554	grassland	8.2	813	5.23	2013	NA_	ITS2	Illumina	2
+247	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	3084	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	279
+248	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	6071	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	41
+251	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	14.73	65.97	Europe	soil	19199	forest	-1	879	4.03	2012	NA_	ITS2	454Roche	1
+267	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6825	50.2078	Europe	root	14645	grassland	9.5	534	6.51	2018	Tanacetum vulgare	ITS2	Illumina	4
+271	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	12949	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	13
+283	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6514	50.5714	Europe	root	22494	grassland	8.7	580	6.42	2018	Arrhenatherum elatius	ITS2	Illumina	5
+307	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3547	50.0572	Europe	topsoil	21145	grassland	8.7	485	6.29	2018	Echinops sphaerocephalus	ITS2	Illumina	1
+313	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6369	50.0903	Europe	root	11733	grassland	9.1	563	5.99	2018	Arrhenatherum elatius	ITS2	Illumina	1018
+326	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	9310	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	23
+332	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6369	50.0903	Europe	topsoil	21562	grassland	9.1	563	5.99	2018	Symphiotrichum novi-belgii	ITS2	Illumina	144
+338	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	10.01	44.88	Europe	soil	7006	grassland	14.1	911	6.4	2012	NA_	ITS2	454Roche	15
+344	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3697	50.1393	Europe	root	10351	grassland	8.9	464	7.09	2018	Daucus carota	ITS2	Illumina	1
+382	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6514	50.5714	Europe	root	22585	grassland	8.7	580	6.42	2018	Daucus carota	ITS2	Illumina	13
+401	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	2951	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	118
+409	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	14.02	45.96	Europe	soil	7081	grassland	9.5	1943	6	2012	NA_	ITS2	454Roche	353
+416	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3481	50.0583	Europe	root	12737	grassland	8.7	467	6.76	2018	Daucus carota	ITS2	Illumina	23
+428	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	14.5562	49.4473	Europe	soil	7110	grassland	8.1	589	5.01	2013	NA_	ITS2	Illumina	2
+434	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	4851	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	37
+435	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	7463	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	139
+436	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.80108	52.0292	Europe	soil	4436	grassland	10	833	5.06	2011	NA_	ITS2	454Roche	2
+437	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	1459	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	2
+439	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3697	50.1393	Europe	root	16107	grassland	8.9	464	7.09	2018	Conyza canadensis	ITS2	Illumina	1
+444	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.7656	49.9873	Europe	soil	11101	grassland	7.7	623	5.62	2013	NA_	ITS2	Illumina	1
+448	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	2.53	45.11	Europe	soil	9492	grassland	7.8	1524	5.35	2012	NA_	ITS2	454Roche	433
+457	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	15.6749	49.2559	Europe	soil	15764	grassland	7.7	589	6.03	2013	NA_	ITS2	Illumina	1
+468	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	4989	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	326
+476	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	-1.48	51.86	Europe	soil	5446	grassland	10	597	5.58	2012	NA_	ITS2	454Roche	416
+494	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5414	50.0267	Europe	topsoil	18737	grassland	8.9	535	5.18	2018	Solidago canadensis	ITS2	Illumina	6
+498	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	-6.9	52.86	Europe	soil	8296	cropland	10.1	929	7.75	2012	NA_	ITS2	454Roche	1
+499	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	5.89	46.78	Europe	soil	7389	grassland	9.7	1440	6.89	2012	NA_	ITS2	454Roche	24
+509	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	9.19	55.79	Europe	soil	5091	cropland	8.2	863	6.01	2012	NA_	ITS2	454Roche	168
+511	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2792	50.0853	Europe	root	15267	grassland	8.4	507	7.1	2018	Arrhenatherum elatius	ITS2	Illumina	1
+522	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	7.5	45.22	Europe	soil	8998	grassland	11.9	705	6.01	2012	NA_	ITS2	454Roche	351
+554	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	10.39	51.22	Europe	soil	26842	grassland	8.4	541	7.42	2012	NA_	ITS2	454Roche	30
+557	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	1855	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	7
+569	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6792	50.21	Europe	root	21282	grassland	9.4	558	4.93	2018	Tanacetum vulgare	ITS2	Illumina	2
+572	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.08186	54.3089	Europe	soil	3578	grassland	8.6	1001	5.49	2011	Anthoxanthum odoratum;Geranium sylvaticum	ITS2	454Roche	22
+584	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	9.13	47.2	Europe	soil	10247	grassland	6	1970	6.54	2012	NA_	ITS2	454Roche	140
+585	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	1483	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	5
+600	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	8.95	46.95	Europe	soil	11489	grassland	0.3	2261	5.14	2012	NA_	ITS2	454Roche	2
+603	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	1834	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	6
+609	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	3035	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	105
+616	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.80108	52.0292	Europe	soil	7309	grassland	10	833	5.06	2011	NA_	ITS2	454Roche	36
+630	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.80108	52.0292	Europe	soil	1017	grassland	10	833	5.06	2011	NA_	ITS2	454Roche	1
+652	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	-1.32	51.78	Europe	soil	7419	cropland	10.1	642	7.52	2012	NA_	ITS2	454Roche	1
+658	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	-2.01	51.95	Europe	soil	14221	cropland	9.3	825	7.68	2012	NA_	ITS2	454Roche	2
+664	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	8.09	45.63	Europe	soil	8711	grassland	9.9	866	5.2	2012	NA_	ITS2	454Roche	219
+679	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.08186	54.3089	Europe	soil	11528	grassland	8.6	1001	5.49	2011	Anthoxanthum odoratum;Geranium sylvaticum	ITS2	454Roche	4
+691	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	2063	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	14
+698	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.2269	49.1059	Europe	soil	10547	grassland	9.1	506	5.62	2013	NA_	ITS2	Illumina	1
+721	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	2260	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	43
+738	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.28785	40.8178	Europe	soil	844	grassland	15.5	552	5.92	2011	NA_	ITS2	454Roche	10
+739	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	0.11831	46.4122	Europe	soil	1823	grassland	11.8	808	6.42	2011	NA_	ITS2	454Roche	23
+774	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	563	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	28
+793	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	538	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	1
+799	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.08186	54.3089	Europe	soil	1421	grassland	8.6	1001	5.49	2011	Anthoxanthum odoratum;Geranium sylvaticum	ITS2	454Roche	1
+808	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.80108	52.0292	Europe	soil	3794	grassland	10	833	5.06	2011	NA_	ITS2	454Roche	6
+824	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	966	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	10
+835	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	712	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	35
+866	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	10339	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	1

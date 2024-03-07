@@ -1,0 +1,55 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+664	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	8.09	45.63	Europe	soil	8711	grassland	9.9	866	5.2	2012	NA_	ITS2	454Roche	20
+7797	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32221	50.8746	Europe	soil	33311	cropland	10.4	660	7.8	2016	Medicago sativa	LSU	Illumina	5
+7831	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.25678	50.8621	Europe	soil	23408	cropland	9.9	743	7.6	2016	Triticum aestivum 	LSU	Illumina	269
+7832	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.2569	50.8627	Europe	soil	14181	cropland	9.9	743	7.7	2016	Triticum aestivum 	LSU	Illumina	1
+7833	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.3176	50.8646	Europe	soil	35738	cropland	10.2	686	7.8	2016	Hordeum vulgare 	LSU	Illumina	628
+7852	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31653	50.883	Europe	soil	24492	cropland	10.3	659	7.6	2016	Triticum aestivum 	LSU	Illumina	2
+7853	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31552	50.8709	Europe	soil	17193	cropland	10.2	676	7.8	2016	Hordeum vulgare 	LSU	Illumina	197
+7854	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31557	50.8721	Europe	soil	26628	cropland	10.2	676	7.9	2016	Hordeum vulgare 	LSU	Illumina	8
+7857	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.3163	50.8708	Europe	soil	28111	cropland	10.2	676	7.9	2016	Hordeum vulgare 	LSU	Illumina	1
+7870	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31586	50.8834	Europe	soil	14656	cropland	10.2	657	7.6	2016	Triticum aestivum 	LSU	Illumina	99
+7906	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31686	50.8655	Europe	soil	39400	cropland	10.2	686	7.8	2016	Hordeum vulgare 	LSU	Illumina	1
+7908	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31925	50.8651	Europe	soil	48894	cropland	10.2	686	7.8	2016	Hordeum vulgare 	LSU	Illumina	1
+7928	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.25446	50.8627	Europe	soil	10890	cropland	9.9	743	7.7	2016	Triticum aestivum 	LSU	Illumina	1
+7986	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.24823	50.868	Europe	soil	5150	cropland	9.9	752	7.6	2016	Triticum aestivum 	LSU	Illumina	1
+7988	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.26409	50.8431	Europe	soil	9166	cropland	9.8	770	7.6	2016	Triticum aestivum 	LSU	Illumina	253
+7996	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31426	50.8828	Europe	soil	28132	cropland	10.3	659	7.6	2016	Triticum aestivum 	LSU	Illumina	1
+8031	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.26421	50.8426	Europe	soil	3349	cropland	9.8	770	7.5	2016	Triticum aestivum 	LSU	Illumina	2
+8069	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.24784	50.8687	Europe	soil	14618	cropland	9.9	752	7.8	2016	Triticum aestivum 	LSU	Illumina	87
+8085	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.24821	50.8689	Europe	soil	10722	cropland	9.9	752	7.7	2016	Triticum aestivum 	LSU	Illumina	804
+8152	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	208	grassland	9.4	481	7.795	2010	Festuca brevipila	LSU	454Roche	1
+8186	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.26515	50.843	Europe	soil	4055	cropland	9.8	770	7.5	2016	Triticum aestivum 	LSU	Illumina	1305
+8216	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	127	grassland	9.4	481	6.93	2010	Festuca brevipila	LSU	454Roche	4
+8230	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	361	grassland	9.4	481	6.12	2010	Festuca brevipila	LSU	454Roche	3
+8240	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	177	grassland	9.4	481	6.775	2010	Festuca brevipila	LSU	454Roche	4
+8252	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.26659	50.8439	Europe	soil	10311	cropland	9.8	761	7.7	2016	Triticum aestivum 	LSU	Illumina	3
+8257	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	420	grassland	9.4	481	6.335	2010	Festuca brevipila	LSU	454Roche	2
+8264	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	132	grassland	9.4	481	8.015	2010	Festuca brevipila	LSU	454Roche	1
+8268	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	184	grassland	9.4	481	7.645	2010	Festuca brevipila	LSU	454Roche	5
+8273	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	173	grassland	9.4	481	7.1	2010	Festuca brevipila	LSU	454Roche	30
+8275	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	16	grassland	9.4	481	7.1	2010	Festuca brevipila	LSU	454Roche	1
+8279	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	217	grassland	9.4	481	7.755	2010	Festuca brevipila	LSU	454Roche	8
+8284	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	244	grassland	9.4	481	6.12	2010	Festuca brevipila	LSU	454Roche	24
+8299	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.25563	50.8456	Europe	soil	14	cropland	9.7	774	7.7	2016	Triticum aestivum 	LSU	Illumina	1
+8312	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	157	grassland	9.4	481	6.385	2010	Festuca brevipila	LSU	454Roche	1
+8314	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	7	grassland	9.4	481	5.84	2010	Festuca brevipila	LSU	454Roche	5
+8319	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	109	grassland	9.4	481	8.06	2010	Festuca brevipila	LSU	454Roche	7
+8320	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	264	grassland	9.4	481	6.43	2010	Festuca brevipila	LSU	454Roche	3
+8321	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	278	grassland	9.4	481	6.12	2010	Festuca brevipila	LSU	454Roche	264
+8322	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	148	grassland	9.4	481	8.07	2010	Festuca brevipila	LSU	454Roche	2
+8323	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	111	grassland	9.4	481	7.45	2010	Festuca brevipila	LSU	454Roche	1
+8333	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	25	grassland	9.4	481	6.43	2010	Festuca brevipila	LSU	454Roche	2
+8342	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	184	grassland	9.4	481	7.86	2010	Festuca brevipila	LSU	454Roche	3
+8353	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	172	grassland	9.4	481	7.19	2010	Festuca brevipila	LSU	454Roche	20
+8357	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	16	grassland	9.4	481	8.235	2010	Festuca brevipila	LSU	454Roche	3
+8381	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	17	grassland	9.4	481	7.645	2010	Festuca brevipila	LSU	454Roche	15
+8382	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	10	grassland	9.4	481	7.18	2010	Festuca brevipila	LSU	454Roche	4
+8387	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	12	grassland	9.4	481	7.795	2010	Festuca brevipila	LSU	454Roche	9
+8403	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	7	grassland	9.4	481	7.19	2010	Festuca brevipila	LSU	454Roche	4
+8406	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	41	grassland	9.4	481	8.07	2010	Festuca brevipila	LSU	454Roche	34
+8408	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	17	grassland	9.4	481	7.725	2010	Festuca brevipila	LSU	454Roche	5
+8418	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	6	grassland	9.4	481	6.12	2010	Festuca brevipila	LSU	454Roche	2
+8419	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	3	grassland	9.4	481	7.85	2010	Festuca brevipila	LSU	454Roche	1
+8450	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	8	grassland	9.4	481	7.765	2010	Festuca brevipila	LSU	454Roche	2
+8456	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	2	grassland	9.4	481	7.29	2010	Festuca brevipila	LSU	454Roche	2

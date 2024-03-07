@@ -1,40 +1,80 @@
-#!/usr/bin/env python3
 import numpy as np
 import pandas as pd
 import pymc3 as pm
 import os
 from sklearn.metrics import r2_score
+from sklearn.preprocessing import MinMaxScaler
 
 from .. import global_vars
 from ..utils import *
 
-
 class Species:
-
     def __init__(self, level_name, file_name, env_vars, x_dim):
-        self.level_name = level_name
-        self.file_name = file_name
-        self.data = None
-        self.env_vars = env_vars
-        self.x_dim = x_dim 
-        self.y_dim = y_dim 
-        self.X = None
-        self.Y = None
+        self.__level = level_name
+        self.__file_name = file_name
+        self.__data = None
+        self.__env_vars = env_vars
+        self.__x_dim = x_dim 
+        self.__y_dim = None 
+        self.__X = None
+        self.__Y = None
 
 
-    def get_data(self):
-        self.data = read_file(self.file_name)
-        self.X = self.data[self.env_vars]
-        start_y = self.x_dim-1
-        end_y = self.data.shape[1] 
-        self.Y = self.data.iloc[:, start_y:end_y]
+    def set_data(self):
+        try:
+            self.__data = read_file(self.__file_name)
+        except ValueError as err:
+            print("errro")
 
+        self.__X = self.__data[self.__env_vars]
+        start_y = self.__x_dim-1
+        end_y = self.__data.shape[1] 
+        self.__Y = self.__data.iloc[:, start_y:end_y]
+        self.__y_dim = self.__data.shape[1] - self.__x_dim + 1
+    
+
+    def get_data(self, index=None):
+        if index:
+            return self.__X.iloc[index,:], self.__Y.iloc[index,:]
+        return self.__X, self.__Y
+
+
+    def get_norm_env_vars(self):
+        mean_values = self.__X.mean()
+        std_values = self.__X.std()
+        return (self.__X - mean_values) / std_values
+
+
+    def get_min_max_env_vars(self):
+        scaler = MinMaxScaler()
+        scaler.fit(self.__X)
+        return pd.DataFrame(scaler.transform(self.__X))
+
+
+    def get_attributes(self):
+        return self.__level, self.__x_dim, self.__y_dim
+
+
+    def print_data(self):
+        print(f'X is {self.__X}')
+        print(f'Y is {self.__Y}')
+
+
+
+    def get_description(self):
+        print(f'The taxonomic level: {self.__level}')
+        print(f'Input dimension: {self.__x_dim}')
+        print(f'Output dimension: {self.__y_dim}')
+                
 
 
 if __name__ == "__main__":
     env_vars = ['pH', 'MO']
-    species = Species('Ordre', 'Order/sol_Ordre.xlsx',env_vars, x_dim=18)
-
+    species = Species('Ordre', 'Ordre/sol_Ordre.xlsx', env_vars, x_dim=19)
+    species.set_data()
+    species.get_description()
+    taxon, input_dim, output_dim = species.get_attributes()
+    print(f'Taxon: ', taxon)
 
 
 #        #cols = ['pH', 'MO', 'Sables_fins', 'Sables_grossiers', 'Limons_fins', 'Limons_grossiers', 'CEC', 'K2O']

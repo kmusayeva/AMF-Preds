@@ -1,0 +1,4 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+48	Kohout_2015_F109	SSUmAf1+2/LSUmAr1 to 4 then ITS1/ITS4	12.7943	50.0643	Europe	root	1405	grassland	6.2	652	5.73	2010	Knautia arvensis	ITS2	454Roche	1
+263	Kohout_2015_F109	SSUmAf1+2/LSUmAr1 to 4 then ITS1/ITS4	12.7943	50.0643	Europe	root	856	grassland	6.2	652	5.49	2010	Knautia arvensis	ITS2	454Roche	1
+632	Kohout_2015_F109	SSUmAf1+2/LSUmAr1 to 4 then ITS1/ITS4	12.7877	50.0588	Europe	root	388	grassland	6.3	655	5.59	2010	Knautia arvensis	ITS2	454Roche	1

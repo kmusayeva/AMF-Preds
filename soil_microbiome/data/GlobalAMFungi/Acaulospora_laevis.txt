@@ -1,0 +1,52 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+41	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3697	50.1393	Europe	topsoil	18207	grassland	8.9	464	7.09	2018	Conyza canadensis	ITS2	Illumina	1
+51	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	17814	grassland	9.1	563	5.37	2018	Arrhenatherum elatius	ITS2	Illumina	93
+57	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.28785	40.8178	Europe	soil	9759	grassland	15.5	552	5.92	2011	NA_	ITS2	454Roche	78
+146	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	23600	grassland	9.1	563	5.37	2018	Tanacetum vulgare	ITS2	Illumina	21
+166	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	14.6195	49.6391	Europe	soil	20165	grassland	8	596	5.47	2013	NA_	ITS2	Illumina	4
+175	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7354	Europe	topsoil	23665	grassland	9.1	585	7.41	2018	Conyza canadensis	ITS2	Illumina	1
+179	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	topsoil	20641	grassland	9.1	563	5.37	2018	Solidago canadensis	ITS2	Illumina	16
+180	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6356	50.0864	Europe	root	27473	grassland	9.1	563	5.57	2018	Arrhenatherum elatius	ITS2	Illumina	13
+190	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.29237	40.816	Europe	soil	4031	grassland	15.8	549	5.32	2011	Avena sativa;Lolium multiflorum;Trifolium subterraneum;Trifolium michelianum	ITS2	454Roche	108
+205	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.28785	40.8178	Europe	soil	14691	grassland	15.5	552	5.92	2011	NA_	ITS2	454Roche	24
+215	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6356	50.0864	Europe	root	17266	grassland	9.1	563	5.57	2018	Arrhenatherum elatius	ITS2	Illumina	117
+216	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6356	50.0864	Europe	root	24368	grassland	9.1	563	5.57	2018	Arrhenatherum elatius	ITS2	Illumina	18
+225	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	-8.03	37.74	Europe	soil	17204	cropland	16.8	565	6.1	2012	NA_	ITS2	454Roche	106
+229	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.80108	52.0292	Europe	soil	4309	grassland	10	833	5.06	2011	NA_	ITS2	454Roche	1
+259	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	0.11831	46.4122	Europe	soil	8561	grassland	11.8	808	6.42	2011	NA_	ITS2	454Roche	5
+275	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.29237	40.816	Europe	soil	2568	grassland	15.8	549	5.32	2011	Avena sativa;Lolium multiflorum;Trifolium subterraneum;Trifolium michelianum	ITS2	454Roche	3
+320	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	13.8707	48.8992	Europe	soil	7123	grassland	6.9	809	5.59	2013	NA_	ITS2	Illumina	2
+335	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	25207	grassland	9.1	563	5.37	2018	Tanacetum vulgare	ITS2	Illumina	2
+336	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	18493	grassland	9.1	563	5.37	2018	Daucus carota	ITS2	Illumina	236
+351	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.08186	54.3089	Europe	soil	7266	grassland	8.6	1001	5.49	2011	Anthoxanthum odoratum;Geranium sylvaticum	ITS2	454Roche	1
+359	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2897	50.115	Europe	root	16614	grassland	8.5	509	6.33	2018	Daucus carota	ITS2	Illumina	1
+398	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	22153	grassland	9.1	563	5.37	2018	Solidago canadensis	ITS2	Illumina	1
+421	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	22358	grassland	9.1	563	5.37	2018	Daucus carota	ITS2	Illumina	5
+428	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	14.5562	49.4473	Europe	soil	7110	grassland	8.1	589	5.01	2013	NA_	ITS2	Illumina	2
+431	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	13229	grassland	9.1	563	5.37	2018	Tanacetum vulgare	ITS2	Illumina	3
+436	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.80108	52.0292	Europe	soil	4436	grassland	10	833	5.06	2011	NA_	ITS2	454Roche	4
+442	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.28785	40.8178	Europe	soil	957	grassland	15.5	552	5.92	2011	NA_	ITS2	454Roche	2
+476	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	-1.48	51.86	Europe	soil	5446	grassland	10	597	5.58	2012	NA_	ITS2	454Roche	14
+482	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	7209	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	1
+487	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.29237	40.816	Europe	soil	10407	grassland	15.8	549	5.32	2011	Avena sativa;Lolium multiflorum;Trifolium subterraneum;Trifolium michelianum	ITS2	454Roche	676
+522	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	7.5	45.22	Europe	soil	8998	grassland	11.9	705	6.01	2012	NA_	ITS2	454Roche	3
+533	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	23194	grassland	9.1	563	5.37	2018	Tanacetum vulgare	ITS2	Illumina	2
+547	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	15.1268	50.8928	Europe	soil	13484	grassland	8	733	6.15	2013	NA_	ITS2	Illumina	5
+555	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	14.0122	49.0113	Europe	soil	12784	grassland	7.8	695	5.4	2013	NA_	ITS2	Illumina	2
+560	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	20843	grassland	9.1	563	5.37	2018	Daucus carota	ITS2	Illumina	84
+600	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	8.95	46.95	Europe	soil	11489	grassland	0.3	2261	5.14	2012	NA_	ITS2	454Roche	1
+605	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.29237	40.816	Europe	soil	2225	grassland	15.8	549	5.32	2011	Avena sativa;Lolium multiflorum;Trifolium subterraneum;Trifolium michelianum	ITS2	454Roche	252
+606	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.08186	54.3089	Europe	soil	2738	grassland	8.6	1001	5.49	2011	Anthoxanthum odoratum;Geranium sylvaticum	ITS2	454Roche	379
+609	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.7518	52.0028	Europe	soil	3035	grassland	10.1	813	5.52	2011	NA_	ITS2	454Roche	80
+611	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.28785	40.8178	Europe	soil	1420	grassland	15.5	552	5.92	2011	NA_	ITS2	454Roche	2
+615	Bouffaud_2016_1AM	SSUmCf/LSUmBr then ITS3m/ITS4	4.7125	46.9256	Europe	root	7386	cropland	10.8	790	8.11	2013	Vitis vinifera	ITS2	454Roche	1
+616	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.80108	52.0292	Europe	soil	7309	grassland	10	833	5.06	2011	NA_	ITS2	454Roche	11
+620	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6371	50.0901	Europe	root	20713	grassland	9.1	563	4.62	2018	Symphiotrichum novi-belgii	ITS2	Illumina	1
+680	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.28785	40.8178	Europe	soil	8910	grassland	15.5	552	5.92	2011	NA_	ITS2	454Roche	17
+694	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	9.29237	40.816	Europe	soil	1139	grassland	15.8	549	5.32	2011	Avena sativa;Lolium multiflorum;Trifolium subterraneum;Trifolium michelianum	ITS2	454Roche	4
+701	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	5.80108	52.0292	Europe	soil	1041	grassland	10	833	5.06	2011	NA_	ITS2	454Roche	1
+800	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.07077	54.309	Europe	soil	1184	grassland	8.6	1020	5.35	2011	Lolium perenne;Cynosurus cristatus	ITS2	454Roche	165
+819	Bouffaud_2017_4492	SSUmCf/LSUmBr then ITS3m/ITS4	-2.08186	54.3089	Europe	soil	1342	grassland	8.6	1001	5.49	2011	Anthoxanthum odoratum;Geranium sylvaticum	ITS2	454Roche	11
+7904	Lojan_2016_ED57	SSUmAf1+2/LSUmAr1 to 4 then LSU-D1f/LSUmBr	-79.1801	-4.00044	South America	root	2999	cropland	15.4	777	4.91	2012	Solanum tuberosum	LSU	454Roche	20
+8185	Lojan_2016_ED57	SSUmAf1+2/LSUmAr1 to 4 then LSU-D1f/LSUmBr	-78.5569	-0.370597	South America	root	2526	cropland	10.8	1539	5.54	2012	Solanum tuberosum	LSU	454Roche	37
+8219	Lojan_2016_ED57	SSUmAf1+2/LSUmAr1 to 4 then LSU-D1f/LSUmBr	-79.1801	-4.00044	South America	root	3240	cropland	15.4	777	4.91	2012	Solanum tuberosum	LSU	454Roche	3218

@@ -1,0 +1,37 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+888	Vasar_2021_1HW	WANDA/AML2	-48.8525	-15.81	South America	soil	146654	grassland	21	1926	3.36	2016	NA_	SSU	Illumina	359
+922	Vasar_2021_1HW	WANDA/AML2	103.347	35.4736	Asia	soil	124361	grassland	5.8	667	7.5	2014	NA_	SSU	Illumina	17
+989	Vasar_2021_1HW	WANDA/AML2	76.8012	11.4023	Asia	soil	146486	forest	16	1244	NA_	2020	NA_	SSU	Illumina	164
+1050	Vasar_2021_1HW	WANDA/AML2	-47.5569	-14.7919	South America	soil	105818	grassland	22	1364	3.61	2016	NA_	SSU	Illumina	30
+1177	Vasar_2021_1HW	WANDA/AML2	-47.4783	-13.6367	South America	soil	44667	shrubland	21.3	1964	3.97	2016	NA_	SSU	Illumina	45
+1216	Vasar_2021_1HW	WANDA/AML2	-16.2247	28.5403	Europe	soil	15339	forest	16.2	544	4.09	2017	NA_	SSU	Illumina	5
+1244	Ezeokoli_2020_1AW	AML1/AML2 then AMV4.5NF/AMDGR	29.1899	-26.0029	Africa	soil	105851	grassland	16	775	4.16	2017	Eragostis tef	SSU	Illumina	1
+1259	Ezeokoli_2020_1AW	AML1/AML2 then AMV4.5NF/AMDGR	29.192	-26.0017	Africa	soil	105322	grassland	16	757	4.16	2017	Eragostis tef	SSU	Illumina	2
+1263	Liu_2021_1IJ	AML1/AML2 then AMV4.5NF/AMDGR	115.71	29.28	Asia	soil	24801	grassland	17.8	1730	6	2018	Eremochloa ophiuroides	SSU	Illumina	4
+1295	Vasar_2021_1HW	WANDA/AML2	-44.6706	-22.3981	South America	soil	66370	shrubland	10.9	1838	3.5	2018	NA_	SSU	Illumina	42
+1400	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	130946	forest	20.7	2167	3.6	2015	Pinus massoniana;Cratoxylum cochinchinense;Mallotus paniculatus;Evodia lepta;Dicranopteris pedata	SSU	Illumina	32
+1449	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	136171	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	1
+1470	Fan_2020_1GN	AMV4.5NF/AMDGR	114.979	36.2842	Asia	rhizosphere soil	44412	cropland	14.7	536	7.91	2015	Triticum aestivum 	SSU	Illumina	1
+1672	Vasar_2021_1HW	WANDA/AML2	-48.8522	-15.81	South America	soil	9586	shrubland	21	1926	4.11	2016	NA_	SSU	Illumina	11
+1784	Ezeokoli_2020_1AW	AML1/AML2 then AMV4.5NF/AMDGR	29.1983	-26.0051	Africa	soil	100471	grassland	16	757	4.69	2017	Eragostis tef	SSU	Illumina	1
+1949	Liu_2021_1IJ	AML1/AML2 then AMV4.5NF/AMDGR	115.71	29.28	Asia	soil	29795	grassland	17.8	1730	6	2018	Eremochloa ophiuroides	SSU	Illumina	7
+1983	Zhang_2021_1IM	NS1/NS4 then AMV4.5NF/AMDGR	112.53	23.17	Asia	soil	166561	forest	20.7	2167	3.4	2015	Castanopsis chinensis;Gironniera subaequalis;Schima superba;Syzygium acuminatissimum;Syzygium rehderianum;Aidia canthioides;Psychotria rubra;Blastus cochinchinensis;Cryptocarya concinna;Machilus chinensis;Lophatherum gracile	SSU	Illumina	2
+2004	Vasar_2021_1HW	WANDA/AML2	151.214	-33.6753	Australia	soil	97523	forest	17	1316	3.9	2010	NA_	SSU	Illumina	207
+2005	Ezeokoli_2020_1AW	AML1/AML2 then AMV4.5NF/AMDGR	29.1912	-26.003	Africa	soil	135542	grassland	16	775	4.16	2017	Eragostis tef	SSU	Illumina	11
+2115	Vasar_2021_1HW	WANDA/AML2	76.8011	11.4022	Asia	soil	27001	forest	16	1244	NA_	2020	NA_	SSU	Illumina	915
+2226	Chen_2018_1BU	NS1/NS4 then AML1/AML2	107.41	35.12	Asia	rhizosphere soil	7347	forest	9.7	750	8	2013	Platycladus orientalis	SSU	454Roche	153
+2263	Jiang_2020_1BX	AMV4.5NF/AMDGR	110.137	23.2556	Asia	rhizosphere soil	143871	cropland	22.3	1565	4.63	2018	Litchi chinensis	SSU	Illumina	3
+2487	Fan_2020_1GN	AMV4.5NF/AMDGR	113.396	34.8165	Asia	rhizosphere soil	67133	cropland	14.9	590	7.32	2015	Triticum aestivum 	SSU	Illumina	1
+2622	Liu_2021_1IJ	AML1/AML2 then AMV4.5NF/AMDGR	115.71	29.28	Asia	soil	24495	grassland	17.8	1730	6	2018	Eremochloa ophiuroides	SSU	Illumina	1
+2632	Liu_2021_1IJ	AML1/AML2 then AMV4.5NF/AMDGR	115.71	29.28	Asia	soil	20960	grassland	17.8	1730	6	2018	Eremochloa ophiuroides	SSU	Illumina	14
+2657	Vasar_2021_1HW	WANDA/AML2	146.12	-19.0192	Australia	soil	6968	forest	19.8	1510	4.29	2014	NA_	SSU	Illumina	5
+2686	Liu_2021_1IJ	AML1/AML2 then AMV4.5NF/AMDGR	115.72	29.29	Asia	soil	20330	grassland	17.9	1658	7	2018	Paspalum notatum	SSU	Illumina	21
+3086	Chen_2018_1BU	NS1/NS4 then AML1/AML2	107.41	35.12	Asia	rhizosphere soil	6065	forest	9.7	750	8	2013	Robinia pseudoacacia	SSU	454Roche	6
+4531	Davison_2015_1GM	NS31/AML2	100.465	16.8594	Asia	root	3135	forest	27	1519	4.6	2009	Amorphophallus sp.	SSU	454Roche	1
+4691	Chen_2018_1BU	NS1/NS4 then AML1/AML2	107.41	35.12	Asia	rhizosphere soil	13621	forest	9.7	750	8	2013	Platycladus orientalis	SSU	454Roche	11
+4823	Chen_2018_1BU	NS1/NS4 then AML1/AML2	107.41	35.12	Asia	rhizosphere soil	5673	forest	9.7	750	8	2013	Robinia pseudoacacia	SSU	454Roche	14
+4960	Vasar_2021_1HW	WANDA/AML2	104.064	10.6272	Asia	soil	81016	forest	21.6	3135	2.9	2018	NA_	SSU	Illumina	36
+5442	Davison_2015_1GM	NS31/AML2	-17.0161	14.5822	Africa	root	1642	grassland	25.8	477	6.4	2011	Prosopis juliflora	SSU	454Roche	11
+5791	Davison_2018_1AQ	NS31/AML2	166.732	-22.1822	Australia	root	2532	shrubland	22.2	1720	4.3	2011	Lomandra insularis	SSU	454Roche	3
+6676	Davison_2018_1AQ	NS31/AML2	166.729	-22.1836	Australia	root	608	shrubland	22.5	1590	6	2011	Scaevola beckii	SSU	454Roche	1
+6813	Davison_2018_1AQ	NS31/AML2	166.729	-22.1836	Australia	root	192	shrubland	22.5	1590	6	2011	Montrouziera sphaeroidea	SSU	454Roche	19

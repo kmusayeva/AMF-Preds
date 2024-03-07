@@ -1,0 +1,6 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+84	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	root	18410	grassland	9.1	585	7.51	2018	Artemisia vulgaris	ITS2	Illumina	1
+165	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7354	Europe	root	15737	grassland	9.1	585	7.41	2018	Artemisia vulgaris	ITS2	Illumina	13
+211	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6514	50.5714	Europe	root	19950	grassland	8.7	580	6.42	2018	Daucus carota	ITS2	Illumina	4
+531	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	root	19199	grassland	9.1	585	7.51	2018	Artemisia vulgaris	ITS2	Illumina	2
+654	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7354	Europe	root	11466	grassland	9.1	585	7.41	2018	Conyza canadensis	ITS2	Illumina	212

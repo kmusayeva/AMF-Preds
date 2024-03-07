@@ -1,0 +1,176 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+1	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3542	50.0572	Europe	topsoil	23626	grassland	8.7	485	7.25	2018	Echinops sphaerocephalus	ITS2	Illumina	2
+5	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3542	50.0572	Europe	root	14645	grassland	8.7	485	7.25	2018	Daucus carota	ITS2	Illumina	1
+12	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2944	50.085	Europe	topsoil	22152	grassland	8.4	491	7.08	2018	Echinops sphaerocephalus	ITS2	Illumina	1
+22	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6342	50.0867	Europe	topsoil	20039	grassland	9.1	563	4.77	2018	Erigeron annuus	ITS2	Illumina	1
+26	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	14.133	49.9447	Europe	soil	20871	grassland	9.2	444	7.41	2013	NA_	ITS2	Illumina	42
+42	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.6443	48.9403	Europe	soil	30351	grassland	10	545	7.48	2013	NA_	ITS2	Illumina	2
+47	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5419	50.0269	Europe	topsoil	23690	grassland	9	512	6.48	2018	Solidago canadensis	ITS2	Illumina	2
+50	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3386	49.9989	Europe	root	20854	grassland	9	460	7.55	2018	Arrhenatherum elatius	ITS2	Illumina	3
+52	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8917	50.2486	Europe	root	17101	grassland	9.2	588	7.38	2018	Tanacetum vulgare	ITS2	Illumina	15
+72	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.4699	49.0012	Europe	soil	26592	grassland	9.8	633	7.02	2013	NA_	ITS2	Illumina	2
+74	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5414	50.0267	Europe	root	12179	grassland	8.9	535	5.18	2018	Tanacetum vulgare	ITS2	Illumina	1
+82	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6792	50.21	Europe	root	17429	grassland	9.4	558	4.93	2018	Daucus carota	ITS2	Illumina	37
+114	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	17.0861	49.5289	Europe	root	17693	grassland	9.1	617	7.59	2018	Daucus carota	ITS2	Illumina	58
+128	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	topsoil	20828	grassland	9.1	585	7.51	2018	Conyza canadensis	ITS2	Illumina	1
+154	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	root	23377	grassland	9.1	585	7.51	2018	Artemisia vulgaris	ITS2	Illumina	5
+157	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8922	50.2481	Europe	root	15682	grassland	9.2	588	7.43	2018	Daucus carota	ITS2	Illumina	20
+173	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3336	49.9992	Europe	topsoil	25398	grassland	9	460	7.59	2018	Echinops sphaerocephalus	ITS2	Illumina	25
+174	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3386	49.9989	Europe	topsoil	12000	grassland	9	460	7.55	2018	Echinops sphaerocephalus	ITS2	Illumina	49
+175	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7354	Europe	topsoil	23665	grassland	9.1	585	7.41	2018	Conyza canadensis	ITS2	Illumina	20
+195	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.3383	49.0284	Europe	soil	30702	grassland	9.6	531	7.58	2013	NA_	ITS2	Illumina	2
+199	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2944	50.085	Europe	root	11711	grassland	8.4	491	7.08	2018	Achillea millefolium	ITS2	Illumina	4
+219	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5419	50.0269	Europe	root	17236	grassland	9	512	6.48	2018	Tanacetum vulgare	ITS2	Illumina	15
+226	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	17.0863	49.5288	Europe	root	15723	grassland	9.1	617	7.66	2018	Arrhenatherum elatius	ITS2	Illumina	1
+227	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	16.1148	49.0526	Europe	soil	17192	grassland	9	499	7.06	2013	NA_	ITS2	Illumina	7
+234	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8922	50.2481	Europe	topsoil	18325	grassland	9.2	588	7.43	2018	Erigeron annuus	ITS2	Illumina	9
+257	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3547	50.0572	Europe	root	8152	grassland	8.7	485	6.29	2018	Daucus carota	ITS2	Illumina	4
+266	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5419	50.0269	Europe	root	16679	grassland	9	512	6.48	2018	Tanacetum vulgare	ITS2	Illumina	9
+276	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3386	49.9989	Europe	root	7801	grassland	9	460	7.55	2018	Arrhenatherum elatius	ITS2	Illumina	1
+279	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2897	50.115	Europe	root	21596	grassland	8.5	509	6.33	2018	Arrhenatherum elatius	ITS2	Illumina	1
+282	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	14.1111	50.5317	Europe	soil	19796	grassland	9.5	506	7.48	2013	NA_	ITS2	Illumina	29
+299	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.3451	49.0279	Europe	soil	14186	grassland	9.9	501	7.45	2013	NA_	ITS2	Illumina	4
+307	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3547	50.0572	Europe	topsoil	21145	grassland	8.7	485	6.29	2018	Echinops sphaerocephalus	ITS2	Illumina	11
+308	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3336	49.9992	Europe	root	10003	grassland	9	460	7.59	2018	Arrhenatherum elatius	ITS2	Illumina	2
+314	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3699	50.1392	Europe	topsoil	17080	grassland	8.9	464	7.05	2018	Conyza canadensis	ITS2	Illumina	2
+333	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6371	50.0901	Europe	root	18480	grassland	9.1	563	4.62	2018	Daucus carota	ITS2	Illumina	1
+346	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3561	50.0572	Europe	root	10026	grassland	8.7	485	6.68	2018	Daucus carota	ITS2	Illumina	9
+357	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8922	50.2481	Europe	root	32864	grassland	9.2	588	7.43	2018	Tanacetum vulgare	ITS2	Illumina	1
+394	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6308	50.0867	Europe	topsoil	12860	grassland	9.1	556	4.7	2018	Erigeron annuus	ITS2	Illumina	1
+398	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6364	50.0861	Europe	root	22153	grassland	9.1	563	5.37	2018	Solidago canadensis	ITS2	Illumina	1
+450	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.5419	50.0269	Europe	root	12353	grassland	9	512	6.48	2018	Tanacetum vulgare	ITS2	Illumina	5
+466	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3481	50.0583	Europe	root	19133	grassland	8.7	467	6.76	2018	Daucus carota	ITS2	Illumina	6
+467	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3542	50.0572	Europe	root	15638	grassland	8.7	485	7.25	2018	Arrhenatherum elatius	ITS2	Illumina	90
+470	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2792	50.0853	Europe	root	19834	grassland	8.4	507	7.1	2018	Echinops sphaerocephalus	ITS2	Illumina	31
+473	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	14.267	49.9494	Europe	soil	23014	grassland	8.6	506	7.24	2013	NA_	ITS2	Illumina	7
+515	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3547	50.0572	Europe	root	13455	grassland	8.7	485	6.29	2018	Echinops sphaerocephalus	ITS2	Illumina	1
+518	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.2897	50.115	Europe	root	29554	grassland	8.5	509	6.33	2018	Achillea millefolium	ITS2	Illumina	19
+531	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	16.96	49.7357	Europe	root	19199	grassland	9.1	585	7.51	2018	Artemisia vulgaris	ITS2	Illumina	320
+546	Sudova_2018_1DJ	SSUmAf1+2/LSUmAr1 to 4 then ITS1/ITS4 	16.974	48.201	Europe	root	1771	grassland	10.7	612	7.96	2011	Centaurea stoebe	ITS2	454Roche	6
+599	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	17.0863	49.5288	Europe	root	11856	grassland	9.1	617	7.66	2018	Daucus carota	ITS2	Illumina	1
+639	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3547	50.0572	Europe	root	12054	grassland	8.7	485	6.29	2018	Achillea millefolium	ITS2	Illumina	1
+641	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.8917	50.2486	Europe	root	17631	grassland	9.2	588	7.38	2018	Erigeron annuus	ITS2	Illumina	3
+666	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3697	50.1393	Europe	root	20777	grassland	8.9	464	7.09	2018	Artemisia vulgaris	ITS2	Illumina	23
+736	Sudova_2018_1DJ	SSUmAf1+2/LSUmAr1 to 4 then ITS1/ITS4 	16.974	48.201	Europe	root	245	grassland	10.7	612	7.42	2011	Centaurea stoebe	ITS2	454Roche	6
+737	Sudova_2018_1DJ	SSUmAf1+2/LSUmAr1 to 4 then ITS1/ITS4 	16.974	48.201	Europe	root	219	grassland	10.7	612	7.94	2011	Centaurea stoebe	ITS2	454Roche	16
+773	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.3336	49.9992	Europe	root	15297	grassland	9	460	7.59	2018	Daucus carota	ITS2	Illumina	1
+777	Sudova_2018_1DJ	SSUmAf1+2/LSUmAr1 to 4 then ITS1/ITS4 	16.974	48.201	Europe	root	156	grassland	10.7	612	7.03	2011	Centaurea stoebe	ITS2	454Roche	5
+858	Sudova_2018_1DJ	SSUmAf1+2/LSUmAr1 to 4 then ITS1/ITS4 	16.974	48.201	Europe	root	153	grassland	10.7	612	7.01	2011	Centaurea stoebe	ITS2	454Roche	5
+870	Sudova_2018_1DJ	SSUmAf1+2/LSUmAr1 to 4 then ITS1/ITS4 	16.974	48.201	Europe	root	46	grassland	10.7	612	7.13	2011	Centaurea stoebe	ITS2	454Roche	1
+878	Sudova_2018_1DJ	SSUmAf1+2/LSUmAr1 to 4 then ITS1/ITS4 	16.974	48.201	Europe	root	45	grassland	10.7	612	7.3	2011	Centaurea stoebe	ITS2	454Roche	2
+7799	Gomes_2018_1BG	LR1/FLR2 then 250f/FLR4	-158.097	21.415	North America	soil	29016	forest	20	1223	5.2	2014	Metrosideros polymorpha;Acacia koa	LSU	Illumina	672
+7800	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32948	50.8769	Europe	soil	20811	cropland	10.5	662	7.8	2016	Medicago sativa	LSU	Illumina	1
+7805	Dierks_2019_1AU	FLR3/FLR4	-116.165	43.3395	North America	soil	339995	grassland	11.7	277	NA_	2012	Artemisia tridentata	LSU	Illumina	1
+7806	Dierks_2019_1AU	FLR3/FLR4	-116.165	43.3395	North America	soil	2552540	grassland	11.7	277	NA_	2012	Artemisia tridentata	LSU	Illumina	1042
+7814	Dierks_2019_1AU	FLR3/FLR4	-116.165	43.3395	North America	soil	296022	grassland	11.7	277	NA_	2012	Artemisia tridentata	LSU	Illumina	248
+7823	Dierks_2019_1AU	FLR3/FLR4	-116.165	43.3395	North America	soil	2660847	grassland	11.7	277	NA_	2012	Artemisia tridentata	LSU	Illumina	871
+7825	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32131	50.8757	Europe	soil	26079	cropland	10.6	639	7.9	2016	Medicago sativa	LSU	Illumina	1922
+7833	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.3176	50.8646	Europe	soil	35738	cropland	10.2	686	7.8	2016	Hordeum vulgare 	LSU	Illumina	18
+7842	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.3185	50.8661	Europe	soil	32400	cropland	10.2	686	7.9	2016	Hordeum vulgare 	LSU	Illumina	27
+7843	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32235	50.8758	Europe	soil	37899	cropland	10.6	639	7.8	2016	Medicago sativa	LSU	Illumina	2576
+7845	Lekberg_2013_37D2	FLR3/FLR4	-114.022	46.7358	North America	root	34470	anthropogenic	8	439	6.6	2010	Achillaea millefolium;Antennaria sp.;Artemisia;Bromus tectorum;Centaurea maculosa;Ericameria nauseosa;Euphorbia esula;Lupinus sp.;Native bunchgrass;Potentilla recta	LSU	454Roche	6
+7846	Lekberg_2013_37D2	FLR3/FLR4	-114.021	46.7008	North America	root	15418	anthropogenic	7.8	460	6.6	2010	Euphorbia esula	LSU	454Roche	81
+7847	Lekberg_2013_37D2	FLR3/FLR4	-114.022	46.7009	North America	root	37614	anthropogenic	7.8	460	6.5	2010	Achillaea millefolium;Antennaria sp.;Artemisia;Astragalus sp.;Centaurea maculosa;Delphinium;Euphorbia esula;Lithospermum ruderale;Lupinus sp.;Native bunchgrass;Potentilla recta;Taraxacum officinale;Tragopogon dubius	LSU	454Roche	4
+7848	Lekberg_2013_37D2	FLR3/FLR4	-114.022	46.7019	North America	root	12859	anthropogenic	7.8	460	6.7	2010	Centaurea stoebe	LSU	454Roche	692
+7852	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31653	50.883	Europe	soil	24492	cropland	10.3	659	7.6	2016	Triticum aestivum 	LSU	Illumina	4
+7854	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31557	50.8721	Europe	soil	26628	cropland	10.2	676	7.9	2016	Hordeum vulgare 	LSU	Illumina	17
+7855	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31558	50.8714	Europe	soil	22484	cropland	10.2	676	7.8	2016	Hordeum vulgare 	LSU	Illumina	1
+7857	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.3163	50.8708	Europe	soil	28111	cropland	10.2	676	7.9	2016	Hordeum vulgare 	LSU	Illumina	3
+7866	Bunn_2014_3E43	FLR3/FLR4	-113.989	46.678	North America	root	2754	shrubland	7.3	483	6.5	2011	Achillea millefolium;Antennaria rosea;Antennaria sp;Astragulus inflexus;Collomia leaniaris;Gailardia aristata;Heterotheca villosa;Phacelia linearis	LSU	454Roche	3
+7874	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31635	50.873	Europe	soil	29235	cropland	10.2	676	7.9	2016	Medicago sativa	LSU	Illumina	36
+7897	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31815	50.8653	Europe	soil	26977	cropland	10.2	686	7.9	2016	Hordeum vulgare 	LSU	Illumina	70
+7900	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.38	55.67	Europe	soil	3073	cropland	7.7	738	6.7	2012	Beta vulgaris	LSU	454Roche	18
+7902	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32888	50.8772	Europe	soil	19458	cropland	10.5	662	7.8	2016	Medicago sativa	LSU	Illumina	231
+7908	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31925	50.8651	Europe	soil	48894	cropland	10.2	686	7.8	2016	Hordeum vulgare 	LSU	Illumina	2
+7909	Lekberg_2013_37D2	FLR3/FLR4	-114.095	46.9981	North America	root	18309	anthropogenic	7.1	542	6.6	2010	Centaurea stoebe	LSU	454Roche	44
+7910	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31706	50.8743	Europe	soil	25019	cropland	10.4	660	7.8	2016	Medicago sativa	LSU	Illumina	258
+7912	Lekberg_2013_37D2	FLR3/FLR4	-114.002	46.7409	North America	root	8033	anthropogenic	7.4	457	6.6	2010	Centaurea stoebe	LSU	454Roche	69
+7920	SenesGuerrero_2016_8D2E	SSUmAf1+2/LSUmAr1 to 4 then LSU-D1f/LSUmBr	-66.0844	-17.166	South America	root	1652	cropland	7.2	1705	5.2	2010	Solanum tuberosum	LSU	454Roche	497
+7923	Lekberg_2013_37D2	FLR3/FLR4	-113.982	46.9035	North America	root	44126	anthropogenic	7.9	432	6.5	2010	Euphorbia esula	LSU	454Roche	13
+7926	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.45	56.65	Europe	soil	2163	cropland	6.7	992	6.1	2012	Beta vulgaris	LSU	454Roche	139
+7928	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.25446	50.8627	Europe	soil	10890	cropland	9.9	743	7.7	2016	Triticum aestivum 	LSU	Illumina	1
+7929	Dierks_2019_1AU	FLR3/FLR4	-116.165	43.3395	North America	soil	232561	grassland	11.7	277	NA_	2012	Bromus tectorum	LSU	Illumina	998
+7938	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32811	50.8769	Europe	soil	25163	cropland	10.5	662	7.7	2016	Medicago sativa	LSU	Illumina	90
+7942	Bunn_2014_3E43	FLR3/FLR4	-113.987	46.677	North America	root	5362	shrubland	7.3	483	7.1	2011	Achillea millefolium;Astragulus inflexus;Gailardia aristata;Heterotheca villosa;Phacelia linearis	LSU	454Roche	1
+7944	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31767	50.8734	Europe	soil	33315	cropland	10.4	660	7.9	2016	Medicago sativa	LSU	Illumina	103
+7946	Kruger_2017_A452	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr	12.6547	50.2335	Europe	root	5897	woodland	7.2	789	7.94	2013	Calamagrostis epigejos	LSU	454Roche	3
+7949	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.15	55.74	Europe	soil	2873	grassland	8.1	662	8	2012	NA_	LSU	454Roche	17
+7951	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32296	50.8751	Europe	soil	19725	cropland	10.6	639	7.9	2016	Medicago sativa	LSU	Illumina	3159
+7954	Lekberg_2013_37D2	FLR3/FLR4	-114.025	46.7355	North America	root	18588	anthropogenic	8	439	6.8	2010	Euphorbia esula	LSU	454Roche	31
+7958	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32249	50.8751	Europe	soil	30106	cropland	10.6	639	7.9	2016	Medicago sativa	LSU	Illumina	221
+7959	Kruger_2017_A452	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr	12.6617	50.2371	Europe	root	17875	woodland	7.3	744	7.703	2013	Calamagrostis epigejos	LSU	454Roche	1
+7960	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.38	55.67	Europe	soil	1765	cropland	7.7	738	6.7	2012	Beta vulgaris	LSU	454Roche	12
+7963	Lekberg_2013_37D2	FLR3/FLR4	-114.031	46.9329	North America	root	6439	anthropogenic	8.1	446	6.5	2010	Euphorbia esula	LSU	454Roche	17
+7968	SenesGuerrero_2016_8D2E	SSUmAf1+2/LSUmAr1 to 4 then LSU-D1f/LSUmBr	-65.6436	-17.166	South America	root	7061	cropland	12	2807	5.3	2010	Solanum tuberosum	LSU	454Roche	1
+7973	Lekberg_2013_37D2	FLR3/FLR4	-113.979	46.8474	North America	root	12155	anthropogenic	7.3	472	6.9	2010	Centaurea stoebe	LSU	454Roche	199
+7975	Lekberg_2013_37D2	FLR3/FLR4	-113.984	46.8449	North America	root	6501	anthropogenic	8.4	407	6.9	2010	Euphorbia esula	LSU	454Roche	1
+7978	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32857	50.8779	Europe	soil	20599	cropland	10.5	662	7.8	2016	Medicago sativa	LSU	Illumina	3405
+7982	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.48	56.46	Europe	soil	209	cropland	7	941	5.7	2012	Beta vulgaris	LSU	454Roche	3
+7987	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.58	55.8	Europe	soil	1663	cropland	7.3	744	5.5	2011	NA_	LSU	454Roche	148
+7991	Lekberg_2013_37D2	FLR3/FLR4	-113.984	46.9061	North America	root	4379	anthropogenic	7.7	474	6.7	2010	Centaurea stoebe	LSU	454Roche	32
+7997	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.31645	50.8736	Europe	soil	23477	cropland	10.2	676	7.8	2016	Medicago sativa	LSU	Illumina	39
+7999	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	200	grassland	9.4	481	7.85	2010	Festuca brevipila	LSU	454Roche	5
+8004	Lekberg_2013_37D2	FLR3/FLR4	-113.98	46.9029	North America	root	3555	anthropogenic	7.9	432	6.5	2010	Bromus tectorum	LSU	454Roche	2
+8008	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.48	56.46	Europe	soil	762	cropland	7	941	5.7	2012	Beta vulgaris	LSU	454Roche	19
+8016	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.62	55.72	Europe	soil	2911	cropland	7.5	760	5.4	2011	Hordeum vulgare 	LSU	454Roche	24
+8019	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.48	56.46	Europe	soil	666	cropland	7	941	5.7	2012	Beta vulgaris	LSU	454Roche	24
+8022	Cheeke_2015_17FC	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR1/FLR2	-123.23	44.5	North America	root	990	cropland	12.3	1218	5.88	2011	Zea mays	LSU	454Roche	1
+8025	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.32952	50.8774	Europe	soil	13817	cropland	10.5	662	7.8	2016	Medicago sativa	LSU	Illumina	3
+8026	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.05	55.74	Europe	soil	3211	grassland	8.2	633	8.3	2012	NA_	LSU	454Roche	209
+8028	SenesGuerrero_2016_8D2E	SSUmAf1+2/LSUmAr1 to 4 then LSU-D1f/LSUmBr	-75.2674	-12.0286	South America	root	608	cropland	10.8	558	5.71	2010	Solanum tuberosum	LSU	454Roche	129
+8032	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.18	55.75	Europe	soil	3420	cropland	8	676	8	2012	Triticum aestivum 	LSU	454Roche	5
+8034	Bunn_2014_3E43	FLR3/FLR4	-113.989	46.678	North America	root	1833	shrubland	7.3	483	6.6	2011	Achillea millefolium;Antennaria sp;Astragulus inflexus;Collomia leaniaris;Gailardia aristata;Heterotheca villosa;Phacelia linearis	LSU	454Roche	3
+8044	Bunn_2014_3E43	FLR3/FLR4	-117.753	47.742	North America	root	472	shrubland	8.8	466	6.1	2011	Centaurea stoebe	LSU	454Roche	1
+8048	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.48	56.46	Europe	soil	794	cropland	7	941	5.7	2012	Beta vulgaris	LSU	454Roche	75
+8049	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.38	55.67	Europe	soil	1893	cropland	7.7	738	6.7	2012	Beta vulgaris	LSU	454Roche	63
+8066	Gomes_2018_1BG	LR1/FLR2 then 250f/FLR4	-158.099	21.416	North America	soil	1988	forest	20	1223	4.2	2014	Metrosideros polymorpha;Acacia koa	LSU	Illumina	2
+8074	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.38	55.67	Europe	soil	1969	cropland	7.7	738	6.7	2012	Beta vulgaris	LSU	454Roche	124
+8078	Lekberg_2013_37D2	FLR3/FLR4	-114.036	46.9584	North America	root	12880	anthropogenic	6.9	517	6.4	2010	Centaurea stoebe	LSU	454Roche	142
+8082	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.45	56.65	Europe	soil	2006	cropland	6.7	992	6.1	2012	Beta vulgaris	LSU	454Roche	106
+8087	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.38	55.67	Europe	soil	1723	cropland	7.7	738	6.7	2012	Beta vulgaris	LSU	454Roche	51
+8088	Lekberg_2013_37D2	FLR3/FLR4	-113.984	46.9035	North America	root	16261	anthropogenic	7.7	474	6.5	2010	Achillaea millefolium;Balamhoriza sagitatta;Bromus tectorum;Lithospermum ruderale;Lupinus sp.;Native bunchgrass;Sysimbrium altissimum;Taraxacum officinale	LSU	454Roche	74
+8089	Cheeke_2015_17FC	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR1/FLR2	-123.23	44.5	North America	root	1482	cropland	12.3	1218	5.88	2011	Zea mays	LSU	454Roche	2
+8095	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	114	grassland	9.4	481	7.38	2010	Festuca brevipila	LSU	454Roche	1
+8097	Lekberg_2013_37D2	FLR3/FLR4	-114.032	46.9332	North America	root	6051	anthropogenic	8.1	446	6.3	2010	Bromus tectorum	LSU	454Roche	154
+8098	Kruger_2017_A452	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr	12.6492	50.2329	Europe	root	2317	woodland	7.2	829	7.805	2013	Calamagrostis epigejos	LSU	454Roche	1
+8110	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	263	grassland	9.4	481	8.32	2010	Festuca brevipila	LSU	454Roche	5
+8114	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.03	55.78	Europe	soil	1232	cropland	8.1	645	8.2	2012	Triticum aestivum 	LSU	454Roche	33
+8116	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.73	55.73	Europe	soil	1514	cropland	7.4	722	5.2	2011	Hordeum vulgare 	LSU	454Roche	171
+8121	Lekberg_2013_37D2	FLR3/FLR4	-114.101	46.9953	North America	root	9473	anthropogenic	7.2	529	6.5	2010	Bromus tectorum	LSU	454Roche	39
+8132	SenesGuerrero_2016_8D2E	SSUmAf1+2/LSUmAr1 to 4 then LSU-D1f/LSUmBr	-66.0844	-17.166	South America	root	1864	cropland	7.2	1705	5.2	2010	Solanum tuberosum	LSU	454Roche	5
+8144	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.45	56.65	Europe	soil	1544	cropland	6.7	992	6.1	2012	Beta vulgaris	LSU	454Roche	9
+8155	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.68	55.6	Europe	soil	1349	cropland	8	624	5.3	2011	Hordeum vulgare 	LSU	454Roche	73
+8156	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.87	55.55	Europe	soil	687	cropland	7.9	641	5.1	2011	Hordeum vulgare 	LSU	454Roche	49
+8168	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.62	55.72	Europe	soil	1525	cropland	7.5	760	5.5	2011	NA_	LSU	454Roche	135
+8178	Lekberg_2013_37D2	FLR3/FLR4	-114.035	46.9596	North America	root	12121	anthropogenic	6.9	517	6.4	2010	Achillaea millefolium;Antennaria sp.;Cynoglossum officinale;Lithospermum ruderale;Native bunchgrass;Potentilla recta;Taraxacum officinale;Veronica verna	LSU	454Roche	89
+8188	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	328	grassland	9.4	481	7.125	2010	Festuca brevipila	LSU	454Roche	1
+8191	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	612	grassland	9.4	481	7.23	2010	Festuca brevipila	LSU	454Roche	1
+8198	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.6	55.58	Europe	soil	2747	cropland	7.9	587	5.4	2011	Hordeum vulgare 	LSU	454Roche	118
+8205	Lekberg_2013_37D2	FLR3/FLR4	-113.975	46.8537	North America	root	7704	anthropogenic	6.5	494	6.5	2010	Bromus tectorum	LSU	454Roche	47
+8217	Bunn_2014_3E43	FLR3/FLR4	-113.984	46.69	North America	root	988	shrubland	6.5	514	6	2011	Achillea millefolium;Antennaria rosea;Antennaria sp;Arnica sororia;Casteilleja hispada;Eriogonum umbellatum;Gailardia aristata;Geranium viscossium ;Geum triflorum;Hieracium albertinum	LSU	454Roche	1
+8220	Williams_2017_3634	LR1/FLR2 then FLR3/FLR4	13.48	56.46	Europe	soil	1343	cropland	7	941	5.7	2012	Beta vulgaris	LSU	454Roche	31
+8224	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	288	grassland	9.4	481	7.485	2010	Festuca brevipila	LSU	454Roche	13
+8229	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	211	grassland	9.4	481	7.425	2010	Festuca brevipila	LSU	454Roche	4
+8231	SenesGuerrero_2016_8D2E	SSUmAf1+2/LSUmAr1 to 4 then LSU-D1f/LSUmBr	-66.0844	-17.166	South America	root	824	cropland	7.2	1705	5.2	2010	Solanum tuberosum	LSU	454Roche	274
+8232	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.6	55.58	Europe	soil	3154	cropland	7.9	587	4.5	2011	NA_	LSU	454Roche	4
+8240	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	177	grassland	9.4	481	6.775	2010	Festuca brevipila	LSU	454Roche	19
+8248	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	72	grassland	9.4	481	7.545	2010	Festuca brevipila	LSU	454Roche	8
+8249	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	103	grassland	9.4	481	7.29	2010	Festuca brevipila	LSU	454Roche	1
+8255	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.24883	50.8685	Europe	soil	102	cropland	9.9	752	7.7	2016	Triticum aestivum 	LSU	Illumina	1
+8257	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	420	grassland	9.4	481	6.335	2010	Festuca brevipila	LSU	454Roche	1
+8258	Gomes_2018_1BG	LR1/FLR2 then 250f/FLR4	-158.194	21.536	North America	soil	2678	forest	21.2	1235	4.9	2014	Metrosideros polymorpha;Acacia koa	LSU	Illumina	119
+8261	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	271	grassland	9.4	481	7.515	2010	Festuca brevipila	LSU	454Roche	2
+8265	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	14.12	55.57	Europe	soil	472	cropland	7.8	659	5.7	2011	NA_	LSU	454Roche	26
+8267	Roy_2017_1CT	SSUmAf1+2/LSUmAr1 to 4 then SSUmCf/LSUmBr then LR3/LR2rev	6.25568	50.8633	Europe	soil	384	cropland	9.9	743	7.5	2016	Triticum aestivum 	LSU	Illumina	2
+8273	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	173	grassland	9.4	481	7.1	2010	Festuca brevipila	LSU	454Roche	11
+8278	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	269	grassland	9.4	481	7.405	2010	Festuca brevipila	LSU	454Roche	1
+8304	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	321	grassland	9.4	481	5.7	2010	Festuca brevipila	LSU	454Roche	1
+8308	Manoharan_2017_C211	LR1/FLR2 then FLR3/FLR4	13.01	55.75	Europe	soil	2414	grassland	8.2	617	6.6	2012	NA_	LSU	454Roche	13
+8312	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	157	grassland	9.4	481	6.385	2010	Festuca brevipila	LSU	454Roche	2
+8320	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	264	grassland	9.4	481	6.43	2010	Festuca brevipila	LSU	454Roche	1
+8323	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	111	grassland	9.4	481	7.45	2010	Festuca brevipila	LSU	454Roche	1
+8330	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	153	grassland	9.4	481	7.18	2010	Festuca brevipila	LSU	454Roche	1
+8342	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	184	grassland	9.4	481	7.86	2010	Festuca brevipila	LSU	454Roche	2
+8350	Horn_2014_B890	LR3/LROR	14.4892	52.463	Europe	soil	180	grassland	9.4	481	7.63	2010	Festuca brevipila	LSU	454Roche	20
+8410	SenesGuerrero_2016_8D2E	SSUmAf1+2/LSUmAr1 to 4 then LSU-D1f/LSUmBr	-66.0844	-17.166	South America	root	15	cropland	7.2	1705	5.2	2009	Solanum tuberosum	LSU	454Roche	3
+8455	SenesGuerrero_2016_8D2E	SSUmAf1+2/LSUmAr1 to 4 then LSU-D1f/LSUmBr	-79.2257	-3.53939	South America	root	27	cropland	13.3	700	4.45	2009	Solanum tuberosum	LSU	454Roche	1

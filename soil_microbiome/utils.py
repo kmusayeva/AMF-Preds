@@ -5,6 +5,8 @@ import os
 import argparse
 from . import global_vars
 
+
+
 def create_directory_if_not_exists(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
@@ -12,6 +14,7 @@ def create_directory_if_not_exists(directory):
 
     else:
         print(f"Directory '{directory}' already exists.")
+
 
 
 
@@ -30,6 +33,7 @@ def check_extension(filename, extension):
 
 
 
+
 def read_file(filename):
     name, ext = os.path.splitext(filename)
 
@@ -37,8 +41,6 @@ def read_file(filename):
         raise ValueError('Please specify either xlsx or csv file.')
 
     full_path = os.path.join(global_vars['data_dir'], filename) 
-    print(global_vars['data_dir'])
-    print(full_path)
 
     if not os.path.isfile(full_path):
         raise ValueError('File does not exist.')
@@ -51,10 +53,5 @@ def read_file(filename):
          data = pd.read_csv(full_path)
     
     return data
-
-
-if __name__ == "__main__":
-    print(read_file("Ordre/sol_Ordre.xlsx"))
-
 
 

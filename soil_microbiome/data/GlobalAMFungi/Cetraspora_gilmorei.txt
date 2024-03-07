@@ -1,0 +1,6 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+4	DeCastro_2018_1AS	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr then ITS3/ITS4	12.5335	38.0341	Europe	root	102629	aquatic	18.6	511	NA_	2013	Pancratium maritimum	ITS2	Illumina	3
+59	DeCastro_2018_1AS	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr then ITS3/ITS4	12.8548	35.8633	Europe	root	127044	aquatic	19.2	394	NA_	2013	Pancratium maritimum	ITS2	Illumina	3
+91	DeCastro_2018_1AS	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr then ITS3/ITS4	12.8548	35.8633	Europe	root	119292	aquatic	19.2	394	NA_	2013	Pancratium maritimum	ITS2	Illumina	33113
+103	DeCastro_2018_1AS	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr then ITS3/ITS4	12.8548	35.8633	Europe	root	92421	aquatic	19.2	394	NA_	2013	Pancratium maritimum	ITS2	Illumina	25778
+169	DeCastro_2018_1AS	SSUmAf1+2/LSUmAr1 to 4 then 250f/LSUmBr then ITS3/ITS4	12.5335	38.0341	Europe	root	76524	aquatic	18.6	511	NA_	2013	Pancratium maritimum	ITS2	Illumina	2

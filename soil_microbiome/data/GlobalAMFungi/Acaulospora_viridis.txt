@@ -1,0 +1,9 @@
+id	paper_id	primers	longitude	latitude	continent	sample_type	marker_size	Biome	MAT	MAP	pH	year_of_sampling	plants_dominant	target_gene	sequencing_platform	abundances
+23	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.0811	48.8065	Europe	soil	22262	grassland	10.3	522	6.46	2013	NA_	ITS2	Illumina	2
+31	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.3014	49.2334	Europe	soil	17787	grassland	9.5	519	7.46	2013	NA_	ITS2	Illumina	1
+80	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.0093	48.9134	Europe	soil	15016	grassland	10.1	519	7.47	2013	NA_	ITS2	Illumina	1
+96	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	4.9	43.64	Europe	soil	5294	grassland	15.4	576	7.55	2012	NA_	ITS2	454Roche	161
+191	Rezacova_2021_1HU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4	14.6371	50.0901	Europe	root	19009	grassland	9.1	563	4.62	2018	Daucus carota	ITS2	Illumina	1
+299	Rezacova_2019_1CU	SSUmAf1+2/LSUmAr1 to 4 then 5.8Snew/ITS4 	17.3451	49.0279	Europe	soil	14186	grassland	9.9	501	7.45	2013	NA_	ITS2	Illumina	2
+363	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	5.48	47.07	Europe	soil	5066	cropland	11.8	901	8.05	2012	NA_	ITS2	454Roche	552
+499	Bouffaud_2016_CC48	SSUmCf/LSUmBr then ITS3m/ITS4	5.89	46.78	Europe	soil	7389	grassland	9.7	1440	6.89	2012	NA_	ITS2	454Roche	13
