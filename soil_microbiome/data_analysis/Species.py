@@ -20,11 +20,11 @@ class Species:
         self.__Y = None
 
 
-    def set_data(self):
+    def read_data(self):
         try:
             self.__data = read_file(self.__file_name)
         except ValueError as err:
-            print("errro")
+            print("Error in reading a file.")
 
         self.__X = self.__data[self.__env_vars]
         start_y = self.__x_dim-1
@@ -71,7 +71,7 @@ class Species:
 if __name__ == "__main__":
     env_vars = ['pH', 'MO']
     species = Species('Ordre', 'Ordre/sol_Ordre.xlsx', env_vars, x_dim=19)
-    species.set_data()
+    species.read_data()
     species.get_description()
     taxon, input_dim, output_dim = species.get_attributes()
     print(f'Taxon: ', taxon)

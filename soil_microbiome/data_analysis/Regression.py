@@ -87,3 +87,5 @@ class Regression:
         return self.__rmse, self.__adjusted_rscore
 
 
+if __name__ == "__main__":
+    print("zaeazeaze")
