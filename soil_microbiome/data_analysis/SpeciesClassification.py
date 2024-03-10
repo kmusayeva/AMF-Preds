@@ -118,10 +118,6 @@ class SpeciesClassification:
 
 
 
-    def plot_confusion_matrix():
-
-
-
 
     def plot_confusion_matrix(cm, classes,
                           normalize=False,
