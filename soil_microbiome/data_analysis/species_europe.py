@@ -35,11 +35,11 @@ class SpeciesEurope(Species):
         self.label_distri = self.label_info()
 
     def __read_data(self, is_global_amf=True):
-        file_name = os.path.join(global_vars['global_amf_dir'], f'{self.level}/sol_{self.level}.xlsx')
+        file_name = os.path.join(global_vars['global_amf_dir'], f'{self.level}/{self.level}.xlsx')
         try:
             data = read_file(file_name)
         except ValueError as err:
-            print("Error in reading a file.")
+            print("Error in reading the species file.")
             sys.exit(1)
         data = data[data['continent'] == "Europe"]
         if self.env_vars is None:

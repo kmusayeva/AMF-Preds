@@ -11,7 +11,6 @@ from sklearn.preprocessing import StandardScaler
 from soil_microbiome.utils.utils import *
 import seaborn as sns
 from typing import List, Tuple, Dict, Optional
-from .cluster import *
 
 
 class Species:
@@ -53,7 +52,7 @@ class Species:
         @return: input, output matrices
         """
         data_dir = 'global_amf_dir' if is_global_amf else 'data_dir'
-        file_name = os.path.join(global_vars[data_dir], f'{self.level}/sol_{self.level}.xlsx')
+        file_name = os.path.join(global_vars[data_dir], f'{self.level}/{self.level}.xlsx')
         try:
             data = read_file(file_name)
         except ValueError as err:

@@ -12,4 +12,4 @@ species = SpeciesEurope(tax_level=tax_level, x_dim=24, env_vars=env_vars, is_glo
 species.get_top_species(30)
 species.print_info()
 model = MLClassification(species)
-model.evaluate(10)
+model.evaluate(2)
