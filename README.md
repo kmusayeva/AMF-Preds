@@ -3,7 +3,7 @@
 This project addresses soil microbiome prediction problem in the context of multi-label classification. The focus here is specifically on arbuscular mycorrhizal fungi (AMF).
 The AMF data used is publicly available on [Global AM Fungi](https://globalamfungi.com/). 
 
-The project consists of two directories:`soil_microbiome` and `m_lp`.
+The project consists of two main directories:`soil_microbiome` and `m_lp`.
 
 `soil_microbiome/data/GlobalAMFungi/Species` contains the tabular data relating environmental variables with AMF abundancies. 
 Currently, the provided data concern the taxonomic level of species.
