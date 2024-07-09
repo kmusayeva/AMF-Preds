@@ -1,7 +1,4 @@
 # Ignore all data directories at any level
-data/
-**/data/
-
 **/figures/
 
 # Ignore all __pycache__ directories at any level
