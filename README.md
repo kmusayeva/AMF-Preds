@@ -7,8 +7,10 @@ The project consists of two directories:`soil_microbiome` and `m_lp`.
 
 `soil_microbiome/data/GlobalAMFungi` contains the tabular data relating environmental variables with species abundancies.
 
-`soil_microbiome/data_analysis` implements off-the-shelf classification methods as well as appeals to label-propagation 
-approaches. 
+`soil_microbiome/data_analysis` evaluates off-the-shelf classification methods, as well as appeals to label-propagation 
+approaches from `m_lp` project. Due to the "power-law" like distribution of the species data, only top frequent species are selected (an option to be provided by a user). 
+Furthermore, the label distribution is kept similar across the folds based on stratified sampling method of 
+Sechidis et al. (2011), On the stratification of multi-label data.
 
 `m_lp` implements label-propagation approaches. For more information on multi-label 
 propagation, please see Musayeva, K., & Binois, M. (2023). Improved Multi-label Propagation for Small Data with Multi-objective Optimization. 
