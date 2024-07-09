@@ -5,7 +5,7 @@ The data used is publicly available on [Global AM Fungi](https://globalamfungi.c
 
 The project consists of two directories:`soil_microbiome` and `m_lp`.
 
-`soil_microbiome/data/GlobalAMFungi` contains the tabular data relating environmental variables and species abundancies.
+`soil_microbiome/data/GlobalAMFungi` contains the tabular data relating environmental variables with species abundancies.
 
 `soil_microbiome/data_analysis` implements off-the-shelf classification methods as well as appeals to label-propagation 
 approaches. 
