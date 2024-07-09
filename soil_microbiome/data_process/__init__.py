@@ -1,3 +1,3 @@
-from .handle_meteo_sol import *
+from .handle_global_amf import *
 
 
