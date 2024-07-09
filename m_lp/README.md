@@ -1,0 +1,1 @@
+Implements a family of label-propagation methods: harmonic function, iterative label propagation, consistency method, local linear neighbourhood approaches.
