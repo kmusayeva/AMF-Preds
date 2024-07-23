@@ -188,6 +188,6 @@ class Species:
         """
         Prints out label distribution.
         """
-        print(f"Freq: \n{self.freq.to_string()}")
-        print(f"The number of examples is {self.X.shape[0]} and the number of labels is {self.Y.shape[1]}")
-        print(', '.join(f"{key}: {value}" for key, value in self.label_distri.items()))
+        print(f">>>Frequencies of top species: \n{self.freq.to_string()}")
+        print(f">>>The number of examples is {self.X.shape[0]} and the number of labels is {self.Y.shape[1]}.")
+        print('\n'.join(f"{key}: {value}" for key, value in self.label_distri.items()))

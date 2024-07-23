@@ -9,11 +9,15 @@ The project consists of two main directories:`soil_microbiome` and `m_lp`.
 Currently, the provided data concern the taxonomic level of species.
 
 `soil_microbiome/data_analysis` evaluates off-the-shelf multi-label classification methods, as well as appeals to label-propagation 
-approaches from `m_lp` project. Due to the "power-law" like distribution of the species data, only top frequent species are selected (an option to be provided by a user). 
-Furthermore, the label distribution is kept similar across the folds based on stratified sampling method of 
-Sechidis et al. (2011), On the stratification of multi-label data.
+approaches from `m_lp` project. Due to the "power-law" like distribution of the species abundancies, only top frequent species should be selected (an option to be provided by a user). 
+Furthermore, the label distribution should be kept similar across the folds to get a thorough evaluation via the family of F1-measures. 
+In this project, this is done based on the stratified sampling method of Sechidis et al. [1].
 
-`m_lp` implements label-propagation approaches. For more information on multi-label 
-propagation, please see Musayeva, K., & Binois, M. (2023). Improved Multi-label Propagation for Small Data with Multi-objective Optimization. 
+The project `m_lp` implements label-propagation approaches (please check [2] for more information).
 
 The entry point is `soil_microbiome/main.py`.
+
+
+#### References
+1. Sechidis, K., Tsoumakas, G., & Vlahavas, I. (2011). On the stratification of multi-label data. 
+2. Musayeva, K., & Binois, M. (2023). Improved Multi-label Propagation for Small Data with Multi-objective Optimization. 

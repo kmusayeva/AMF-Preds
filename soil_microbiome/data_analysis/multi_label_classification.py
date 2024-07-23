@@ -44,7 +44,7 @@ class MLClassification(SpeciesClassification):
         Evaluate the classification model using stratified sampling method.
         @param nshuffle: the number of times to shuffle the data.
         """
-        print(f">>> Proportions for stratified sampling: {self.proportions}")
+        print(f">>>Proportions for stratified sampling: {self.proportions}")
         result_nsh = {key: pd.DataFrame(columns=self.score_names, index=range(nshuffle))
                       for key in self.result.columns}
         # kf = KFold(n_splits=self.cv, shuffle=True, random_state=29)
@@ -68,8 +68,11 @@ class MLClassification(SpeciesClassification):
             self.result[method_name] = (result_nsh[method_name].mean()).round(3)
             self.stds[method_name] = (result_nsh[method_name].std()).round(3)
 
-        print(self.result)
-        print(self.stds)
+
+    def printResults(self):
+        print(f">>>Results: \n{self.result.to_string()}")
+        print(f"Standard deviations: \n{self.stds.to_string()}")
+
 
     def ecc_predict(self, train_indices: np.ndarray, test_indices: np.ndarray) -> np.ndarray:
         """
