@@ -20,5 +20,5 @@ species.print_info()
 
 # perform multi-label classification
 model = MLClassification(species)
-model.evaluate(nshuffle=10)
+model.evaluate(nshuffle=2)
 model.printResults()

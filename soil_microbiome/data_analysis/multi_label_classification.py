@@ -65,8 +65,8 @@ class MLClassification(SpeciesClassification):
                     raise AttributeError(f"Method {func_name} is not defined in the class.")
 
         for method_name in list(self.methods):
-            self.result[method_name] = (result_nsh[method_name].mean()).round(3)
-            self.stds[method_name] = (result_nsh[method_name].std()).round(3)
+            self.result[method_name] = result_nsh[method_name].mean()
+            self.stds[method_name] = result_nsh[method_name].std()
 
 
     def printResults(self):
