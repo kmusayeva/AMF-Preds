@@ -54,8 +54,8 @@ You can modify `main.py` to:
 * choose n number of top frequent species ```species.get_top_species(num_top=10)```
 
 
-### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+### Licence
+This project is licensed under the MIT Licence - see the LICENCE.md file for details.
 
 
 ### Author
