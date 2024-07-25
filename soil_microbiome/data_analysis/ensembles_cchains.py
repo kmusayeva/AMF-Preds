@@ -16,7 +16,7 @@ from sklearn.svm import SVC
 
 class EnsembleClassifierChains:
 
-    def __init__(self, base_estimator: RandomForestClassifier | SVC, n_chains: int = 5,
+    def __init__(self, base_estimator, n_chains: int = 5,
                  random_state: int = None) -> None:
         """
         @param base_estimator: random forest or support vector machine
