@@ -29,7 +29,6 @@ In this project, this is done based on the stratified sampling method of Sechidi
 ### Running instructions
 ```
 git clone https://github.com/kmusayeva/AMF-Preds
-cd AMF-Preds
 ```
 You will need to install `mlp` and `soil_microbiome` projects separately as follows:
 ```

@@ -1,4 +1,4 @@
-from m_lp.multi_label_propagation import *
+from mlp.multi_label_propagation import *
 from soil_microbiome.data_analysis import *
 
 # taxonomic level is species

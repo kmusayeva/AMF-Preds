@@ -11,8 +11,8 @@ from .species_classification import *
 from .stratified_sampling import *
 from .ensembles_cchains import *
 
-from m_lp.multi_label_propagation import *
-from m_lp.thresholding import *
+from mlp.multi_label_propagation import *
+from mlp.thresholding import *
 from skmultilearn.adapt import MLkNN
 from skmultilearn.problem_transform import LabelPowerset
 
