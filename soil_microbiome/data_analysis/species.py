@@ -1,6 +1,6 @@
 """
 Creates species from the species data set (this path should be set in the global_vars)
-and the taxonomic level: order, family, gender or species.
+and the taxonomic level: order, family, genus or species.
 Author: Khadija Musayeva
 Email: khmusayeva@gmail.com
 """
