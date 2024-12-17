@@ -14,7 +14,7 @@ class SpeciesEurope(Species):
                  species: Optional[List[str]] = None, is_global_amf=True) -> None:
         """
         Initialize Europe species from global amf data.
-        @param tax_level: taxonomic level: order, family, gender, or species
+        @param tax_level: taxonomic level: order, family, genus, or species
         @param x_dim: total number of variables in input data
         @param env_vars: list of selected environmental/input variables
         @param species_pattern: select species based on their names, such as "glo"
