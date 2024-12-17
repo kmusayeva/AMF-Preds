@@ -21,7 +21,7 @@ class Species:
         Initialize the Species object with X as environmental variables, Y abundancy matrix,
         Yb absence/presence matrix, Y_top top most frequent species. Calculate label ditrbution,
         class imbalance information.
-        @param tax_level: taxonomic level: order, family, gender, or species
+        @param tax_level: taxonomic level: order, family, genus, or species
         @param x_dim: total number of variables in input data
         @param env_vars: list of selected environmental/input variables
         @param species_pattern: select species based on their names, such as "glo"
