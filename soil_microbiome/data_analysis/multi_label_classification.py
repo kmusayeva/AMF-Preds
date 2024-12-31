@@ -76,7 +76,7 @@ class MLClassification(SpeciesClassification):
 
     def ecc_predict(self, train_indices: np.ndarray, test_indices: np.ndarray) -> np.ndarray:
         """
-        Prediction using Classifier Chains with a random forest base model.
+        Predict based on ensembles of classifier chains with random forest base model.
         @param train_indices
         @param test_indices
         @return predictions
@@ -91,7 +91,7 @@ class MLClassification(SpeciesClassification):
 
     def lp_predict(self, train_indices: np.ndarray, test_indices: np.ndarray) -> np.ndarray:
         """
-        Prediction using label powerset with a Random Forest base model.
+        Predict using label powerset method with random forest base model.
         @param train_indices
         @param test_indices
         @return predictions
@@ -107,7 +107,7 @@ class MLClassification(SpeciesClassification):
 
     def mlknn_predict(self, train_indices: np.ndarray, test_indices: np.ndarray) -> np.ndarray:
         """
-        Prediction using ml-knn.
+        Predict using multi-label knn.
         @param train_indices
         @param test_indices
         @return predictions
@@ -120,7 +120,7 @@ class MLClassification(SpeciesClassification):
 
     def hf_predict(self, train_indices: np.ndarray, test_indices: np.ndarray) -> np.ndarray:
         """
-        Prediction using harmonic function.
+        Predict using harmonic function.
         @param train_indices
         @param test_indices
         @return predictions
@@ -134,7 +134,7 @@ class MLClassification(SpeciesClassification):
 
     def cm_predict(self, train_indices: np.ndarray, test_indices: np.ndarray) -> np.ndarray:
         """
-        Prediction using consistency method.
+        Predict using consistency method.
         @param train_indices
         @param test_indices
         @return predictions
