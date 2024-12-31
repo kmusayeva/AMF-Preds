@@ -11,7 +11,7 @@ from typing import List, Tuple, Dict, Optional, Union
 
 def iterative_stratification(Y: np.ndarray, k: int, proportions: List[float]) -> List[np.ndarray]:
     """
-     Perform stratified sampling based on the response matrix Y, returning k disjoint subsets of indices.
+    Perform stratified sampling based on the response matrix Y, returning k disjoint subsets of indices.
     @param Y: A binary response matrix of shape (n_samples, n_labels).
     @param k: Desired number of subsets.
     @return: A list of k disjoint subsets of indices.
