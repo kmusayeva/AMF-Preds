@@ -34,7 +34,7 @@ class MLClassification(SpeciesClassification):
             ("SA", accuracy_score, {})]
 
         self.score_names = [x[0] for x in self.scores]
-        self.methods = ["lp", "knn", "hf", "rf", "gb", "svc", "ecc", "mlknn"]
+        self.methods = ["lp", "knn", "hf", "rf", "gb", "svc", "ecc"] # remove mlknn due to a problem in MLkNN class
         self.result = pd.DataFrame(index=self.score_names, columns=self.methods)
         self.stds = pd.DataFrame(index=self.score_names, columns=self.methods)
         self.k, self.proportions = 2, [0.8, 0.2]
